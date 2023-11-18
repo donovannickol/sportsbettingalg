@@ -1,0 +1,1524 @@
+date,home_team,away_team,prop_odds_game_id,sportsbook,home_team_odds,away_team_odds,winner
+2023-03-30,Milwaukee Bucks,Boston Celtics,b9f73afe76d00f8ab4df32b24700e6e3,fanduel,-144,122,Boston Celtics
+2023-03-30,Denver Nuggets,New Orleans Pelicans,f675c3bcd3829faa0c16e6ef609c94cc,fanduel,-300,245,New Orleans Pelicans
+2023-03-31,Charlotte Hornets,Chicago Bulls,39dee3e66ddefccd0037a482db303469,fanduel,285,-355,Chicago Bulls
+2023-03-31,Indiana Pacers,Oklahoma City Thunder,821bb9d62a74cf9a4e056662b88fbcb6,fanduel,126,-148,Indiana Pacers
+2023-03-31,Philadelphia 76ers,Toronto Raptors,01092098ddf3786113f882e9595e221c,fanduel,-250,205,Philadelphia 76ers
+2023-03-31,Washington Wizards,Orlando Magic,e5e549c2915bd7542fbc8445764976e1,fanduel,-118,100,Orlando Magic
+2023-03-31,Boston Celtics,Utah Jazz,dccd6d118076f397970d87b441ef56b3,fanduel,-1000,660,Boston Celtics
+2023-03-31,Brooklyn Nets,Atlanta Hawks,9a32500dfc383b1fe0ef1ab29a3e5b65,fanduel,-102,-116,Brooklyn Nets
+2023-03-31,Cleveland Cavaliers,New York Knicks,5aba22ae43d7450dee74ba5867ee21b8,fanduel,-178,150,New York Knicks
+2023-03-31,Houston Rockets,Detroit Pistons,38a34cfdda54b63bf54f463e8a0e70b1,fanduel,-190,160,Houston Rockets
+2023-03-31,Memphis Grizzlies,LA Clippers,548b2146893eb689ffaa67764de7c95e,fanduel,-280,230,Memphis Grizzlies
+2023-03-31,Minnesota Timberwolves,Los Angeles Lakers,19e1451e993cb0aa7774d5dcc91762ec,fanduel,-112,-104,Los Angeles Lakers
+2023-03-31,Golden State Warriors,San Antonio Spurs,2a193027992b1e00babebabc2ecb76dd,fanduel,-1800,980,Golden State Warriors
+2023-03-31,Portland Trail Blazers,Sacramento Kings,0fc0acd27223d25c43a2347799d41ca6,fanduel,870,-1500,Sacramento Kings
+2023-03-31,Phoenix Suns,Denver Nuggets,c41c2107a371c768bceebc1dd9d2f688,fanduel,-360,290,Phoenix Suns
+2023-04-01,Miami Heat,Dallas Mavericks,ec26cf3fc289d1364e5caf0e2b8aa61f,fanduel,-112,-104,Miami Heat
+2023-04-01,New Orleans Pelicans,LA Clippers,9903985ef140ac45a2d3644acf8ea5d8,fanduel,-154,130,New Orleans Pelicans
+2023-04-02,Charlotte Hornets,Toronto Raptors,75f151dc17c381b50de088f0786f4e77,fanduel,610,-900,Toronto Raptors
+2023-04-02,Brooklyn Nets,Utah Jazz,283ef39ee8e894506c90d0d5009c6257,fanduel,-370,295,Brooklyn Nets
+2023-04-02,Chicago Bulls,Memphis Grizzlies,3a8bfe292cc8acee659053865a322203,fanduel,120,-142,Chicago Bulls
+2023-04-02,Minnesota Timberwolves,Portland Trail Blazers,6c8b9f7d727b0a368b6a31f4bbf22c5e,fanduel,-1600,900,Portland Trail Blazers
+2023-04-02,Atlanta Hawks,Dallas Mavericks,0fde7cb072eb9b456e2400a720021822,fanduel,-178,150,Atlanta Hawks
+2023-04-02,New York Knicks,Washington Wizards,44f43b80489b0faa072eff31d001a8b6,fanduel,-800,560,New York Knicks
+2023-04-02,Orlando Magic,Detroit Pistons,dd81f66081020d9a4d0f8aabb13ac3b5,fanduel,-480,370,Orlando Magic
+2023-04-02,Sacramento Kings,San Antonio Spurs,bb80b155885884bccb5c83d23715920d,fanduel,-1600,900,San Antonio Spurs
+2023-04-02,Houston Rockets,Los Angeles Lakers,869f17c14cf42a2ecdece166c0d153df,fanduel,460,-620,Los Angeles Lakers
+2023-04-02,Oklahoma City Thunder,Phoenix Suns,01f6008a00b82a119b717781144d483e,fanduel,164,-198,Phoenix Suns
+2023-04-02,Cleveland Cavaliers,Indiana Pacers,f3d15fa9ce10864cc58995fb5d484ac6,fanduel,-850,590,Cleveland Cavaliers
+2023-04-02,Milwaukee Bucks,Philadelphia 76ers,08041b82ae06db4fd68a3e0702be8ce7,fanduel,-200,168,Milwaukee Bucks
+2023-04-02,Denver Nuggets,Golden State Warriors,fd93bf137c84e6d69af4a6a388d385e0,fanduel,-142,120,Denver Nuggets
+2023-04-04,Charlotte Hornets,Toronto Raptors,b2710d5c8f1cd775383e279195fc7c3c,fanduel,750,-1200,Toronto Raptors
+2023-04-04,Detroit Pistons,Miami Heat,fd8f4ac6c0354b57ec62ed66abee9b2e,fanduel,520,-700,Miami Heat
+2023-04-04,Orlando Magic,Cleveland Cavaliers,1c32e3bf39a81e6ae4816b0b67cdd6a7,fanduel,156,-186,Cleveland Cavaliers
+2023-04-04,Washington Wizards,Milwaukee Bucks,eac734c02814ecdd7d6b099a9b451f34,fanduel,610,-900,Milwaukee Bucks
+2023-04-04,Brooklyn Nets,Minnesota Timberwolves,db115e001ef05d081ca247b93ef532e9,fanduel,100,-118,Minnesota Timberwolves
+2023-04-04,Philadelphia 76ers,Boston Celtics,d12a85557588466b62b3b941fdab8f26,fanduel,-138,118,Philadelphia 76ers
+2023-04-04,Chicago Bulls,Atlanta Hawks,833f2b022733f5fdb071352f7d0ea60b,fanduel,-178,150,Atlanta Hawks
+2023-04-04,Houston Rockets,Denver Nuggets,2c191c33495cd3281ff956716de00c97,fanduel,390,-510,Houston Rockets
+2023-04-04,Memphis Grizzlies,Portland Trail Blazers,4d7bd48250bad97ceb3433a2f5893f95,fanduel,-1800,980,Memphis Grizzlies
+2023-04-04,New Orleans Pelicans,Sacramento Kings,23bbd84add2eea0fe47badf057da4278,fanduel,-158,134,Sacramento Kings
+2023-04-04,Utah Jazz,Los Angeles Lakers,1585d13c33de670c5b1fd1370a1b3ea5,fanduel,285,-355,Los Angeles Lakers
+2023-04-04,Golden State Warriors,Oklahoma City Thunder,8be06eae07b0bdd2efc1d33a7189be0c,fanduel,-350,280,Golden State Warriors
+2023-04-04,Phoenix Suns,San Antonio Spurs,1fdef5f2a4f4568e2e1f6288c5949919,fanduel,-2200,1100,Phoenix Suns
+2023-04-05,Detroit Pistons,Brooklyn Nets,815a0ba2c6ac504465fbd0f34472a06d,fanduel,370,-480,Brooklyn Nets
+2023-04-05,Detroit Pistons,Brooklyn Nets,815a0ba2c6ac504465fbd0f34472a06d,draftkings,400,-500,Brooklyn Nets
+2023-04-05,Detroit Pistons,Brooklyn Nets,815a0ba2c6ac504465fbd0f34472a06d,caesars,400,-550,Brooklyn Nets
+2023-04-05,Indiana Pacers,New York Knicks,20856586723ae25f4687806c60dcc3de,fanduel,295,-370,New York Knicks
+2023-04-05,Indiana Pacers,New York Knicks,20856586723ae25f4687806c60dcc3de,draftkings,300,-365,New York Knicks
+2023-04-05,Indiana Pacers,New York Knicks,20856586723ae25f4687806c60dcc3de,caesars,278,-355,New York Knicks
+2023-04-05,Atlanta Hawks,Washington Wizards,6d6bd3e7848b2286aba793688df9de0e,fanduel,-590,430,Atlanta Hawks
+2023-04-05,Atlanta Hawks,Washington Wizards,6d6bd3e7848b2286aba793688df9de0e,draftkings,-560,430,Atlanta Hawks
+2023-04-05,Atlanta Hawks,Washington Wizards,6d6bd3e7848b2286aba793688df9de0e,caesars,-600,430,Atlanta Hawks
+2023-04-05,Boston Celtics,Toronto Raptors,c30ea779a1e4cbe246b9886708dc6f2d,fanduel,-205,172,Boston Celtics
+2023-04-05,Boston Celtics,Toronto Raptors,c30ea779a1e4cbe246b9886708dc6f2d,draftkings,-200,170,Boston Celtics
+2023-04-05,Boston Celtics,Toronto Raptors,c30ea779a1e4cbe246b9886708dc6f2d,caesars,-205,170,Boston Celtics
+2023-04-05,Milwaukee Bucks,Chicago Bulls,7a69f192e4a5787dd9df4aa5d2ba62c4,fanduel,-300,245,Milwaukee Bucks
+2023-04-05,Milwaukee Bucks,Chicago Bulls,7a69f192e4a5787dd9df4aa5d2ba62c4,draftkings,-275,230,Milwaukee Bucks
+2023-04-05,Milwaukee Bucks,Chicago Bulls,7a69f192e4a5787dd9df4aa5d2ba62c4,caesars,-305,240,Milwaukee Bucks
+2023-04-05,New Orleans Pelicans,Memphis Grizzlies,1fc310013687394d3bd3b33ef5603ae5,fanduel,-220,184,New Orleans Pelicans
+2023-04-05,New Orleans Pelicans,Memphis Grizzlies,1fc310013687394d3bd3b33ef5603ae5,draftkings,-215,185,New Orleans Pelicans
+2023-04-05,New Orleans Pelicans,Memphis Grizzlies,1fc310013687394d3bd3b33ef5603ae5,caesars,-210,175,New Orleans Pelicans
+2023-04-05,Dallas Mavericks,Sacramento Kings,4068e370bbacbc5d7c6e797f8efb903a,fanduel,-240,198,Dallas Mavericks
+2023-04-05,Dallas Mavericks,Sacramento Kings,4068e370bbacbc5d7c6e797f8efb903a,draftkings,-230,195,Dallas Mavericks
+2023-04-05,Dallas Mavericks,Sacramento Kings,4068e370bbacbc5d7c6e797f8efb903a,caesars,-225,185,Dallas Mavericks
+2023-04-05,LA Clippers,Los Angeles Lakers,b0f1b2672fa0fee27eb27c69604efc95,fanduel,-158,134,LA Clippers
+2023-04-05,LA Clippers,Los Angeles Lakers,b0f1b2672fa0fee27eb27c69604efc95,draftkings,-150,130,LA Clippers
+2023-04-05,LA Clippers,Los Angeles Lakers,b0f1b2672fa0fee27eb27c69604efc95,caesars,-165,140,LA Clippers
+2023-04-06,Orlando Magic,Cleveland Cavaliers,37c8eb855ee9e97bd3ae8c0e2d1dce0f,fanduel,-310,250,Cleveland Cavaliers
+2023-04-06,Orlando Magic,Cleveland Cavaliers,37c8eb855ee9e97bd3ae8c0e2d1dce0f,draftkings,-300,250,Cleveland Cavaliers
+2023-04-06,Orlando Magic,Cleveland Cavaliers,37c8eb855ee9e97bd3ae8c0e2d1dce0f,caesars,-320,250,Cleveland Cavaliers
+2023-04-06,Philadelphia 76ers,Miami Heat,dab2e7fc5323722ebc5b2f3fef161d4f,fanduel,-166,140,Miami Heat
+2023-04-06,Philadelphia 76ers,Miami Heat,dab2e7fc5323722ebc5b2f3fef161d4f,draftkings,-170,145,Miami Heat
+2023-04-06,Philadelphia 76ers,Miami Heat,dab2e7fc5323722ebc5b2f3fef161d4f,caesars,-178,150,Miami Heat
+2023-04-06,San Antonio Spurs,Portland Trail Blazers,e32cebe03996038ae3f304c8a073b0fc,fanduel,-136,116,San Antonio Spurs
+2023-04-06,San Antonio Spurs,Portland Trail Blazers,e32cebe03996038ae3f304c8a073b0fc,draftkings,-130,110,San Antonio Spurs
+2023-04-06,San Antonio Spurs,Portland Trail Blazers,e32cebe03996038ae3f304c8a073b0fc,caesars,-135,115,San Antonio Spurs
+2023-04-06,Utah Jazz,Oklahoma City Thunder,20253dfa3ec6970483a76a6f9864afee,fanduel,225,-275,Oklahoma City Thunder
+2023-04-06,Utah Jazz,Oklahoma City Thunder,20253dfa3ec6970483a76a6f9864afee,draftkings,210,-250,Oklahoma City Thunder
+2023-04-06,Utah Jazz,Oklahoma City Thunder,20253dfa3ec6970483a76a6f9864afee,caesars,210,-260,Oklahoma City Thunder
+2023-04-06,Phoenix Suns,Denver Nuggets,2a6f714f5ad70cb4a21dda68dfd33f91,fanduel,-300,245,Phoenix Suns
+2023-04-06,Phoenix Suns,Denver Nuggets,2a6f714f5ad70cb4a21dda68dfd33f91,draftkings,-280,235,Phoenix Suns
+2023-04-06,Phoenix Suns,Denver Nuggets,2a6f714f5ad70cb4a21dda68dfd33f91,caesars,-305,240,Phoenix Suns
+2023-04-07,Charlotte Hornets,Houston Rockets,0f242a1fdad19b8bbbe719941bf27b89,fanduel,116,-136,Houston Rockets
+2023-04-07,Charlotte Hornets,Houston Rockets,0f242a1fdad19b8bbbe719941bf27b89,draftkings,120,-140,Houston Rockets
+2023-04-07,Charlotte Hornets,Houston Rockets,0f242a1fdad19b8bbbe719941bf27b89,caesars,118,-140,Houston Rockets
+2023-04-07,Indiana Pacers,Detroit Pistons,653a443fe3ec6d0b91978021e7abbd53,fanduel,-290,235,Detroit Pistons
+2023-04-07,Indiana Pacers,Detroit Pistons,653a443fe3ec6d0b91978021e7abbd53,draftkings,-275,230,Detroit Pistons
+2023-04-07,Indiana Pacers,Detroit Pistons,653a443fe3ec6d0b91978021e7abbd53,caesars,-285,228,Detroit Pistons
+2023-04-07,Washington Wizards,Miami Heat,0c4cc1ea3bd6a5aca5ee3a9212f7611e,fanduel,194,-235,Washington Wizards
+2023-04-07,Washington Wizards,Miami Heat,0c4cc1ea3bd6a5aca5ee3a9212f7611e,draftkings,185,-215,Washington Wizards
+2023-04-07,Washington Wizards,Miami Heat,0c4cc1ea3bd6a5aca5ee3a9212f7611e,caesars,185,-225,Washington Wizards
+2023-04-07,Atlanta Hawks,Philadelphia 76ers,f261bda3a4aa9e0db7bc838d1dcc9157,fanduel,-480,370,Philadelphia 76ers
+2023-04-07,Atlanta Hawks,Philadelphia 76ers,f261bda3a4aa9e0db7bc838d1dcc9157,draftkings,-425,340,Philadelphia 76ers
+2023-04-07,Atlanta Hawks,Philadelphia 76ers,f261bda3a4aa9e0db7bc838d1dcc9157,caesars,-455,345,Philadelphia 76ers
+2023-04-07,Boston Celtics,Toronto Raptors,c2bd1ce6c20373dd74104d3a176f0222,fanduel,-138,118,Boston Celtics
+2023-04-07,Boston Celtics,Toronto Raptors,c2bd1ce6c20373dd74104d3a176f0222,draftkings,-140,120,Boston Celtics
+2023-04-07,Boston Celtics,Toronto Raptors,c2bd1ce6c20373dd74104d3a176f0222,caesars,-135,115,Boston Celtics
+2023-04-07,Brooklyn Nets,Orlando Magic,feb8c23807c816a2444b30611390a5eb,fanduel,-720,520,Brooklyn Nets
+2023-04-07,Brooklyn Nets,Orlando Magic,feb8c23807c816a2444b30611390a5eb,draftkings,-800,575,Brooklyn Nets
+2023-04-07,Brooklyn Nets,Orlando Magic,feb8c23807c816a2444b30611390a5eb,caesars,-800,550,Brooklyn Nets
+2023-04-07,Milwaukee Bucks,Memphis Grizzlies,ee92b290096b2652848204c00a2354df,fanduel,225,-275,Memphis Grizzlies
+2023-04-07,Milwaukee Bucks,Memphis Grizzlies,ee92b290096b2652848204c00a2354df,draftkings,230,-275,Memphis Grizzlies
+2023-04-07,Milwaukee Bucks,Memphis Grizzlies,ee92b290096b2652848204c00a2354df,caesars,240,-305,Memphis Grizzlies
+2023-04-07,New Orleans Pelicans,New York Knicks,788ce132cccdaea040c95d0464808ff4,fanduel,-320,260,New Orleans Pelicans
+2023-04-07,New Orleans Pelicans,New York Knicks,788ce132cccdaea040c95d0464808ff4,draftkings,-320,265,New Orleans Pelicans
+2023-04-07,New Orleans Pelicans,New York Knicks,788ce132cccdaea040c95d0464808ff4,caesars,-345,270,New Orleans Pelicans
+2023-04-07,Dallas Mavericks,Chicago Bulls,8757990bb32f12b3c4d209c732cfd820,fanduel,-490,380,Chicago Bulls
+2023-04-07,Dallas Mavericks,Chicago Bulls,8757990bb32f12b3c4d209c732cfd820,draftkings,-475,380,Chicago Bulls
+2023-04-07,Dallas Mavericks,Chicago Bulls,8757990bb32f12b3c4d209c732cfd820,caesars,-480,360,Chicago Bulls
+2023-04-07,Sacramento Kings,Golden State Warriors,a939a597b2d71bb51973febd05cbe64d,fanduel,265,-330,Golden State Warriors
+2023-04-07,Sacramento Kings,Golden State Warriors,a939a597b2d71bb51973febd05cbe64d,draftkings,235,-280,Golden State Warriors
+2023-04-07,Sacramento Kings,Golden State Warriors,a939a597b2d71bb51973febd05cbe64d,caesars,270,-345,Golden State Warriors
+2023-04-07,Los Angeles Lakers,Phoenix Suns,25cde6329053b8107760088193660ecf,fanduel,-350,280,Los Angeles Lakers
+2023-04-07,Los Angeles Lakers,Phoenix Suns,25cde6329053b8107760088193660ecf,draftkings,-360,295,Los Angeles Lakers
+2023-04-07,Los Angeles Lakers,Phoenix Suns,25cde6329053b8107760088193660ecf,caesars,-355,278,Los Angeles Lakers
+2023-04-08,Utah Jazz,Denver Nuggets,23735fdf2514d20d05cce280ec28d549,fanduel,220,-270,Utah Jazz
+2023-04-08,Utah Jazz,Denver Nuggets,23735fdf2514d20d05cce280ec28d549,draftkings,230,-275,Utah Jazz
+2023-04-08,Utah Jazz,Denver Nuggets,23735fdf2514d20d05cce280ec28d549,caesars,228,-285,Utah Jazz
+2023-04-08,Utah Jazz,Denver Nuggets,23735fdf2514d20d05cce280ec28d549,betmgm,210,-275,Utah Jazz
+2023-04-08,San Antonio Spurs,Minnesota Timberwolves,f3d23a6d32ce474b6b259ed24abaf9a8,fanduel,730,-1150,Minnesota Timberwolves
+2023-04-08,San Antonio Spurs,Minnesota Timberwolves,f3d23a6d32ce474b6b259ed24abaf9a8,draftkings,700,-1050,Minnesota Timberwolves
+2023-04-08,San Antonio Spurs,Minnesota Timberwolves,f3d23a6d32ce474b6b259ed24abaf9a8,caesars,800,-1400,Minnesota Timberwolves
+2023-04-08,San Antonio Spurs,Minnesota Timberwolves,f3d23a6d32ce474b6b259ed24abaf9a8,betmgm,650,-1000,Minnesota Timberwolves
+2023-04-08,LA Clippers,Portland Trail Blazers,b71215b7bfca740f0d6afdf1f923fd3d,fanduel,-1800,980,LA Clippers
+2023-04-08,LA Clippers,Portland Trail Blazers,b71215b7bfca740f0d6afdf1f923fd3d,draftkings,-1650,950,LA Clippers
+2023-04-08,LA Clippers,Portland Trail Blazers,b71215b7bfca740f0d6afdf1f923fd3d,caesars,-2000,1050,LA Clippers
+2023-04-08,LA Clippers,Portland Trail Blazers,b71215b7bfca740f0d6afdf1f923fd3d,betmgm,-2000,1000,LA Clippers
+2023-04-09,Boston Celtics,Atlanta Hawks,5cc5cee7a1b9f4d16a7d0dd273fdb56d,fanduel,-275,225,Boston Celtics
+2023-04-09,Boston Celtics,Atlanta Hawks,5cc5cee7a1b9f4d16a7d0dd273fdb56d,draftkings,-260,220,Boston Celtics
+2023-04-09,Boston Celtics,Atlanta Hawks,5cc5cee7a1b9f4d16a7d0dd273fdb56d,caesars,-278,222,Boston Celtics
+2023-04-09,Boston Celtics,Atlanta Hawks,5cc5cee7a1b9f4d16a7d0dd273fdb56d,betmgm,-275,220,Boston Celtics
+2023-04-09,Boston Celtics,Atlanta Hawks,5cc5cee7a1b9f4d16a7d0dd273fdb56d,barstool,-250,205,Boston Celtics
+2023-04-09,Brooklyn Nets,Philadelphia 76ers,4a7329206b98e1abd221c86420febf99,fanduel,-174,146,Philadelphia 76ers
+2023-04-09,Brooklyn Nets,Philadelphia 76ers,4a7329206b98e1abd221c86420febf99,draftkings,-170,145,Philadelphia 76ers
+2023-04-09,Brooklyn Nets,Philadelphia 76ers,4a7329206b98e1abd221c86420febf99,caesars,-170,143,Philadelphia 76ers
+2023-04-09,Brooklyn Nets,Philadelphia 76ers,4a7329206b98e1abd221c86420febf99,betmgm,-165,140,Philadelphia 76ers
+2023-04-09,Brooklyn Nets,Philadelphia 76ers,4a7329206b98e1abd221c86420febf99,barstool,-167,140,Philadelphia 76ers
+2023-04-09,Cleveland Cavaliers,Charlotte Hornets,9e23e612052b02a613af4d1f0ff73abb,fanduel,-220,184,Charlotte Hornets
+2023-04-09,Cleveland Cavaliers,Charlotte Hornets,9e23e612052b02a613af4d1f0ff73abb,draftkings,-210,180,Charlotte Hornets
+2023-04-09,Cleveland Cavaliers,Charlotte Hornets,9e23e612052b02a613af4d1f0ff73abb,caesars,-210,175,Charlotte Hornets
+2023-04-09,Cleveland Cavaliers,Charlotte Hornets,9e23e612052b02a613af4d1f0ff73abb,betmgm,-200,165,Charlotte Hornets
+2023-04-09,Cleveland Cavaliers,Charlotte Hornets,9e23e612052b02a613af4d1f0ff73abb,barstool,-235,190,Charlotte Hornets
+2023-04-09,Miami Heat,Orlando Magic,5b798170d54f7879e8d6abedfa21429b,fanduel,-220,184,Miami Heat
+2023-04-09,Miami Heat,Orlando Magic,5b798170d54f7879e8d6abedfa21429b,draftkings,-200,170,Miami Heat
+2023-04-09,Miami Heat,Orlando Magic,5b798170d54f7879e8d6abedfa21429b,caesars,-225,185,Miami Heat
+2023-04-09,Miami Heat,Orlando Magic,5b798170d54f7879e8d6abedfa21429b,betmgm,-210,170,Miami Heat
+2023-04-09,Miami Heat,Orlando Magic,5b798170d54f7879e8d6abedfa21429b,barstool,-205,170,Miami Heat
+2023-04-09,New York Knicks,Indiana Pacers,72dffda73530d054c05ae325c0a6d330,fanduel,-405,320,Indiana Pacers
+2023-04-09,New York Knicks,Indiana Pacers,72dffda73530d054c05ae325c0a6d330,draftkings,-380,310,Indiana Pacers
+2023-04-09,New York Knicks,Indiana Pacers,72dffda73530d054c05ae325c0a6d330,caesars,-355,278,Indiana Pacers
+2023-04-09,New York Knicks,Indiana Pacers,72dffda73530d054c05ae325c0a6d330,betmgm,-375,300,Indiana Pacers
+2023-04-09,New York Knicks,Indiana Pacers,72dffda73530d054c05ae325c0a6d330,barstool,-400,320,Indiana Pacers
+2023-04-09,Toronto Raptors,Milwaukee Bucks,f184f7cb63ae90f0dad4ebe4d793ccb6,fanduel,-162,136,Toronto Raptors
+2023-04-09,Toronto Raptors,Milwaukee Bucks,f184f7cb63ae90f0dad4ebe4d793ccb6,draftkings,-155,135,Toronto Raptors
+2023-04-09,Toronto Raptors,Milwaukee Bucks,f184f7cb63ae90f0dad4ebe4d793ccb6,caesars,-165,140,Toronto Raptors
+2023-04-09,Toronto Raptors,Milwaukee Bucks,f184f7cb63ae90f0dad4ebe4d793ccb6,betmgm,-165,135,Toronto Raptors
+2023-04-09,Toronto Raptors,Milwaukee Bucks,f184f7cb63ae90f0dad4ebe4d793ccb6,barstool,-157,130,Toronto Raptors
+2023-04-09,Washington Wizards,Houston Rockets,2ac17f820c9a8d03abdd4acd3b7ef285,fanduel,128,-152,Houston Rockets
+2023-04-09,Washington Wizards,Houston Rockets,2ac17f820c9a8d03abdd4acd3b7ef285,draftkings,125,-145,Houston Rockets
+2023-04-09,Washington Wizards,Houston Rockets,2ac17f820c9a8d03abdd4acd3b7ef285,caesars,130,-155,Houston Rockets
+2023-04-09,Washington Wizards,Houston Rockets,2ac17f820c9a8d03abdd4acd3b7ef285,betmgm,120,-145,Houston Rockets
+2023-04-09,Washington Wizards,Houston Rockets,2ac17f820c9a8d03abdd4acd3b7ef285,barstool,128,-157,Houston Rockets
+2023-04-09,Chicago Bulls,Detroit Pistons,c3792bab7f19ebbbc5dd1d5a1624d191,fanduel,-295,240,Chicago Bulls
+2023-04-09,Chicago Bulls,Detroit Pistons,c3792bab7f19ebbbc5dd1d5a1624d191,draftkings,-300,250,Chicago Bulls
+2023-04-09,Chicago Bulls,Detroit Pistons,c3792bab7f19ebbbc5dd1d5a1624d191,caesars,-320,250,Chicago Bulls
+2023-04-09,Chicago Bulls,Detroit Pistons,c3792bab7f19ebbbc5dd1d5a1624d191,betmgm,-300,240,Chicago Bulls
+2023-04-09,Chicago Bulls,Detroit Pistons,c3792bab7f19ebbbc5dd1d5a1624d191,barstool,-305,245,Chicago Bulls
+2023-04-09,Dallas Mavericks,San Antonio Spurs,05bfd3a6c4001aabf7da23e52396e750,fanduel,-168,142,San Antonio Spurs
+2023-04-09,Dallas Mavericks,San Antonio Spurs,05bfd3a6c4001aabf7da23e52396e750,draftkings,-170,145,San Antonio Spurs
+2023-04-09,Dallas Mavericks,San Antonio Spurs,05bfd3a6c4001aabf7da23e52396e750,caesars,-170,143,San Antonio Spurs
+2023-04-09,Dallas Mavericks,San Antonio Spurs,05bfd3a6c4001aabf7da23e52396e750,betmgm,-175,145,San Antonio Spurs
+2023-04-09,Dallas Mavericks,San Antonio Spurs,05bfd3a6c4001aabf7da23e52396e750,barstool,-182,148,San Antonio Spurs
+2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,9231de3e6d7b227f12f61879496e73ed,fanduel,-162,136,Minnesota Timberwolves
+2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,9231de3e6d7b227f12f61879496e73ed,draftkings,-155,135,Minnesota Timberwolves
+2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,9231de3e6d7b227f12f61879496e73ed,caesars,-170,143,Minnesota Timberwolves
+2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,9231de3e6d7b227f12f61879496e73ed,betmgm,-160,135,Minnesota Timberwolves
+2023-04-09,Minnesota Timberwolves,New Orleans Pelicans,9231de3e6d7b227f12f61879496e73ed,barstool,-167,138,Minnesota Timberwolves
+2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,33f1e4868b344c3bb39a1e68e7278c02,fanduel,110,-130,Oklahoma City Thunder
+2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,33f1e4868b344c3bb39a1e68e7278c02,draftkings,100,-120,Oklahoma City Thunder
+2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,33f1e4868b344c3bb39a1e68e7278c02,caesars,110,-130,Oklahoma City Thunder
+2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,33f1e4868b344c3bb39a1e68e7278c02,betmgm,110,-135,Oklahoma City Thunder
+2023-04-09,Oklahoma City Thunder,Memphis Grizzlies,33f1e4868b344c3bb39a1e68e7278c02,barstool,106,-129,Oklahoma City Thunder
+2023-04-09,Denver Nuggets,Sacramento Kings,ce69d429fe544c1a4f0e725732f14749,fanduel,120,-142,Denver Nuggets
+2023-04-09,Denver Nuggets,Sacramento Kings,ce69d429fe544c1a4f0e725732f14749,draftkings,130,-150,Denver Nuggets
+2023-04-09,Denver Nuggets,Sacramento Kings,ce69d429fe544c1a4f0e725732f14749,caesars,130,-155,Denver Nuggets
+2023-04-09,Denver Nuggets,Sacramento Kings,ce69d429fe544c1a4f0e725732f14749,betmgm,130,-155,Denver Nuggets
+2023-04-09,Denver Nuggets,Sacramento Kings,ce69d429fe544c1a4f0e725732f14749,barstool,123,-148,Denver Nuggets
+2023-04-09,Los Angeles Lakers,Utah Jazz,ffde7eef5489472ff2e6185a1931462e,fanduel,-1600,900,Los Angeles Lakers
+2023-04-09,Los Angeles Lakers,Utah Jazz,ffde7eef5489472ff2e6185a1931462e,draftkings,-1650,950,Los Angeles Lakers
+2023-04-09,Los Angeles Lakers,Utah Jazz,ffde7eef5489472ff2e6185a1931462e,caesars,-2000,1050,Los Angeles Lakers
+2023-04-09,Los Angeles Lakers,Utah Jazz,ffde7eef5489472ff2e6185a1931462e,betmgm,-1600,900,Los Angeles Lakers
+2023-04-09,Los Angeles Lakers,Utah Jazz,ffde7eef5489472ff2e6185a1931462e,barstool,-2500,1050,Los Angeles Lakers
+2023-04-09,Phoenix Suns,LA Clippers,973ef3fd178a026edb82a3c0dd1cb3e1,fanduel,590,-850,LA Clippers
+2023-04-09,Phoenix Suns,LA Clippers,973ef3fd178a026edb82a3c0dd1cb3e1,draftkings,575,-800,LA Clippers
+2023-04-09,Phoenix Suns,LA Clippers,973ef3fd178a026edb82a3c0dd1cb3e1,caesars,550,-800,LA Clippers
+2023-04-09,Phoenix Suns,LA Clippers,973ef3fd178a026edb82a3c0dd1cb3e1,betmgm,600,-900,LA Clippers
+2023-04-09,Phoenix Suns,LA Clippers,973ef3fd178a026edb82a3c0dd1cb3e1,barstool,510,-770,LA Clippers
+2023-04-09,Portland Trail Blazers,Golden State Warriors,0ea4a98effa090cfe4948810a74cd9de,fanduel,900,-1600,Golden State Warriors
+2023-04-09,Portland Trail Blazers,Golden State Warriors,0ea4a98effa090cfe4948810a74cd9de,draftkings,900,-1500,Golden State Warriors
+2023-04-09,Portland Trail Blazers,Golden State Warriors,0ea4a98effa090cfe4948810a74cd9de,caesars,1050,-2000,Golden State Warriors
+2023-04-09,Portland Trail Blazers,Golden State Warriors,0ea4a98effa090cfe4948810a74cd9de,betmgm,900,-1600,Golden State Warriors
+2023-04-09,Portland Trail Blazers,Golden State Warriors,0ea4a98effa090cfe4948810a74cd9de,barstool,1000,-2000,Golden State Warriors
+2023-04-11,Miami Heat,Atlanta Hawks,3a58414e72204789180939ddafe82f85,fanduel,-205,172,Atlanta Hawks
+2023-04-11,Miami Heat,Atlanta Hawks,3a58414e72204789180939ddafe82f85,draftkings,-200,170,Atlanta Hawks
+2023-04-11,Miami Heat,Atlanta Hawks,3a58414e72204789180939ddafe82f85,caesars,-205,170,Atlanta Hawks
+2023-04-11,Miami Heat,Atlanta Hawks,3a58414e72204789180939ddafe82f85,betmgm,-200,165,Atlanta Hawks
+2023-04-11,Miami Heat,Atlanta Hawks,3a58414e72204789180939ddafe82f85,barstool,-210,175,Atlanta Hawks
+2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,45b9dbf2753a0d5e874f239039ee61a9,fanduel,-340,275,Los Angeles Lakers
+2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,45b9dbf2753a0d5e874f239039ee61a9,draftkings,-330,275,Los Angeles Lakers
+2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,45b9dbf2753a0d5e874f239039ee61a9,caesars,-385,300,Los Angeles Lakers
+2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,45b9dbf2753a0d5e874f239039ee61a9,betmgm,-350,270,Los Angeles Lakers
+2023-04-11,Los Angeles Lakers,Minnesota Timberwolves,45b9dbf2753a0d5e874f239039ee61a9,barstool,-345,275,Los Angeles Lakers
+2023-04-12,Toronto Raptors,Chicago Bulls,5bfa63a092c0fe7fcfc414924099bf67,fanduel,-215,180,Chicago Bulls
+2023-04-12,Toronto Raptors,Chicago Bulls,5bfa63a092c0fe7fcfc414924099bf67,draftkings,-215,185,Chicago Bulls
+2023-04-12,Toronto Raptors,Chicago Bulls,5bfa63a092c0fe7fcfc414924099bf67,caesars,-225,185,Chicago Bulls
+2023-04-12,Toronto Raptors,Chicago Bulls,5bfa63a092c0fe7fcfc414924099bf67,betmgm,-225,180,Chicago Bulls
+2023-04-12,Toronto Raptors,Chicago Bulls,5bfa63a092c0fe7fcfc414924099bf67,barstool,-210,175,Chicago Bulls
+2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,9a5f9c73414b7602079c4b1fb1dcb4b8,fanduel,-210,176,Oklahoma City Thunder
+2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,9a5f9c73414b7602079c4b1fb1dcb4b8,draftkings,-215,185,Oklahoma City Thunder
+2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,9a5f9c73414b7602079c4b1fb1dcb4b8,caesars,-225,185,Oklahoma City Thunder
+2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,9a5f9c73414b7602079c4b1fb1dcb4b8,betmgm,-225,180,Oklahoma City Thunder
+2023-04-12,New Orleans Pelicans,Oklahoma City Thunder,9a5f9c73414b7602079c4b1fb1dcb4b8,barstool,-230,188,Oklahoma City Thunder
+2023-04-14,Miami Heat,Chicago Bulls,4c8b351d12b976f3be6a7a94a51339a0,fanduel,-215,180,Miami Heat
+2023-04-14,Miami Heat,Chicago Bulls,4c8b351d12b976f3be6a7a94a51339a0,draftkings,-215,185,Miami Heat
+2023-04-14,Miami Heat,Chicago Bulls,4c8b351d12b976f3be6a7a94a51339a0,caesars,-225,185,Miami Heat
+2023-04-14,Miami Heat,Chicago Bulls,4c8b351d12b976f3be6a7a94a51339a0,betmgm,-225,180,Miami Heat
+2023-04-14,Miami Heat,Chicago Bulls,4c8b351d12b976f3be6a7a94a51339a0,barstool,-225,185,Miami Heat
+2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,5fe846ca4de92ae0bdd55673db798090,fanduel,-215,180,Minnesota Timberwolves
+2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,5fe846ca4de92ae0bdd55673db798090,draftkings,-215,185,Minnesota Timberwolves
+2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,5fe846ca4de92ae0bdd55673db798090,caesars,-220,180,Minnesota Timberwolves
+2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,5fe846ca4de92ae0bdd55673db798090,betmgm,-225,180,Minnesota Timberwolves
+2023-04-14,Minnesota Timberwolves,Oklahoma City Thunder,5fe846ca4de92ae0bdd55673db798090,barstool,-220,180,Minnesota Timberwolves
+2023-04-15,Philadelphia 76ers,Brooklyn Nets,ce801bb171cecf1e06213408a3f054b8,fanduel,-375,300,Philadelphia 76ers
+2023-04-15,Philadelphia 76ers,Brooklyn Nets,ce801bb171cecf1e06213408a3f054b8,draftkings,-365,300,Philadelphia 76ers
+2023-04-15,Philadelphia 76ers,Brooklyn Nets,ce801bb171cecf1e06213408a3f054b8,caesars,-365,285,Philadelphia 76ers
+2023-04-15,Philadelphia 76ers,Brooklyn Nets,ce801bb171cecf1e06213408a3f054b8,betmgm,-350,275,Philadelphia 76ers
+2023-04-15,Philadelphia 76ers,Brooklyn Nets,ce801bb171cecf1e06213408a3f054b8,barstool,-375,295,Philadelphia 76ers
+2023-04-15,Boston Celtics,Atlanta Hawks,d3d106026f392473419a1d39a7b39224,fanduel,-400,315,Boston Celtics
+2023-04-15,Boston Celtics,Atlanta Hawks,d3d106026f392473419a1d39a7b39224,draftkings,-410,330,Boston Celtics
+2023-04-15,Boston Celtics,Atlanta Hawks,d3d106026f392473419a1d39a7b39224,caesars,-430,328,Boston Celtics
+2023-04-15,Boston Celtics,Atlanta Hawks,d3d106026f392473419a1d39a7b39224,betmgm,-400,310,Boston Celtics
+2023-04-15,Boston Celtics,Atlanta Hawks,d3d106026f392473419a1d39a7b39224,barstool,-400,310,Boston Celtics
+2023-04-15,Cleveland Cavaliers,New York Knicks,ea2e7e477d82213434611896c5e2a525,fanduel,-210,176,New York Knicks
+2023-04-15,Cleveland Cavaliers,New York Knicks,ea2e7e477d82213434611896c5e2a525,draftkings,-200,170,New York Knicks
+2023-04-15,Cleveland Cavaliers,New York Knicks,ea2e7e477d82213434611896c5e2a525,caesars,-225,185,New York Knicks
+2023-04-15,Cleveland Cavaliers,New York Knicks,ea2e7e477d82213434611896c5e2a525,betmgm,-225,180,New York Knicks
+2023-04-15,Cleveland Cavaliers,New York Knicks,ea2e7e477d82213434611896c5e2a525,barstool,-215,175,New York Knicks
+2023-04-15,Sacramento Kings,Golden State Warriors,43cc3aba4c99fda0b5d46d315463ee90,fanduel,-112,-104,Sacramento Kings
+2023-04-15,Sacramento Kings,Golden State Warriors,43cc3aba4c99fda0b5d46d315463ee90,draftkings,-110,-110,Sacramento Kings
+2023-04-15,Sacramento Kings,Golden State Warriors,43cc3aba4c99fda0b5d46d315463ee90,caesars,-105,-115,Sacramento Kings
+2023-04-15,Sacramento Kings,Golden State Warriors,43cc3aba4c99fda0b5d46d315463ee90,betmgm,-115,-105,Sacramento Kings
+2023-04-15,Sacramento Kings,Golden State Warriors,43cc3aba4c99fda0b5d46d315463ee90,barstool,-112,-107,Sacramento Kings
+2023-04-16,Memphis Grizzlies,Los Angeles Lakers,b00e76392164297c63f9aaaf35194821,fanduel,-188,150,Los Angeles Lakers
+2023-04-16,Memphis Grizzlies,Los Angeles Lakers,b00e76392164297c63f9aaaf35194821,draftkings,-165,140,Los Angeles Lakers
+2023-04-16,Memphis Grizzlies,Los Angeles Lakers,b00e76392164297c63f9aaaf35194821,caesars,-165,140,Los Angeles Lakers
+2023-04-16,Memphis Grizzlies,Los Angeles Lakers,b00e76392164297c63f9aaaf35194821,betmgm,-165,140,Los Angeles Lakers
+2023-04-16,Memphis Grizzlies,Los Angeles Lakers,b00e76392164297c63f9aaaf35194821,barstool,-167,140,Los Angeles Lakers
+2023-04-16,Milwaukee Bucks,Miami Heat,d465dd20f839778144825a9f15d801b6,fanduel,-420,330,Miami Heat
+2023-04-16,Milwaukee Bucks,Miami Heat,d465dd20f839778144825a9f15d801b6,draftkings,-425,340,Miami Heat
+2023-04-16,Milwaukee Bucks,Miami Heat,d465dd20f839778144825a9f15d801b6,caesars,-455,345,Miami Heat
+2023-04-16,Milwaukee Bucks,Miami Heat,d465dd20f839778144825a9f15d801b6,betmgm,-400,325,Miami Heat
+2023-04-16,Milwaukee Bucks,Miami Heat,d465dd20f839778144825a9f15d801b6,barstool,-435,340,Miami Heat
+2023-04-16,Phoenix Suns,LA Clippers,af2c65ee88461115c9e157100aed05b6,fanduel,-300,245,LA Clippers
+2023-04-16,Phoenix Suns,LA Clippers,af2c65ee88461115c9e157100aed05b6,draftkings,-300,250,LA Clippers
+2023-04-16,Phoenix Suns,LA Clippers,af2c65ee88461115c9e157100aed05b6,caesars,-320,250,LA Clippers
+2023-04-16,Phoenix Suns,LA Clippers,af2c65ee88461115c9e157100aed05b6,betmgm,-300,240,LA Clippers
+2023-04-16,Phoenix Suns,LA Clippers,af2c65ee88461115c9e157100aed05b6,barstool,-295,240,LA Clippers
+2023-04-16,Denver Nuggets,Minnesota Timberwolves,16231786e51fe91ce0d304be1d4e87ca,fanduel,-300,245,Denver Nuggets
+2023-04-16,Denver Nuggets,Minnesota Timberwolves,16231786e51fe91ce0d304be1d4e87ca,draftkings,-315,260,Denver Nuggets
+2023-04-16,Denver Nuggets,Minnesota Timberwolves,16231786e51fe91ce0d304be1d4e87ca,caesars,-345,270,Denver Nuggets
+2023-04-16,Denver Nuggets,Minnesota Timberwolves,16231786e51fe91ce0d304be1d4e87ca,betmgm,-300,240,Denver Nuggets
+2023-04-16,Denver Nuggets,Minnesota Timberwolves,16231786e51fe91ce0d304be1d4e87ca,barstool,-305,240,Denver Nuggets
+2023-04-17,Philadelphia 76ers,Brooklyn Nets,d04d79e3a50930e744122841acd32e00,fanduel,-490,380,Philadelphia 76ers
+2023-04-17,Philadelphia 76ers,Brooklyn Nets,d04d79e3a50930e744122841acd32e00,draftkings,-500,400,Philadelphia 76ers
+2023-04-17,Philadelphia 76ers,Brooklyn Nets,d04d79e3a50930e744122841acd32e00,caesars,-480,360,Philadelphia 76ers
+2023-04-17,Philadelphia 76ers,Brooklyn Nets,d04d79e3a50930e744122841acd32e00,betmgm,-500,375,Philadelphia 76ers
+2023-04-17,Philadelphia 76ers,Brooklyn Nets,d04d79e3a50930e744122841acd32e00,barstool,-480,370,Philadelphia 76ers
+2023-04-17,Sacramento Kings,Golden State Warriors,ab0fa2c9931531da026ca75dcd0a82c3,fanduel,104,-122,Sacramento Kings
+2023-04-17,Sacramento Kings,Golden State Warriors,ab0fa2c9931531da026ca75dcd0a82c3,draftkings,100,-120,Sacramento Kings
+2023-04-17,Sacramento Kings,Golden State Warriors,ab0fa2c9931531da026ca75dcd0a82c3,caesars,105,-125,Sacramento Kings
+2023-04-17,Sacramento Kings,Golden State Warriors,ab0fa2c9931531da026ca75dcd0a82c3,betmgm,-105,-115,Sacramento Kings
+2023-04-17,Sacramento Kings,Golden State Warriors,ab0fa2c9931531da026ca75dcd0a82c3,barstool,100,-120,Sacramento Kings
+2023-04-18,Boston Celtics,Atlanta Hawks,200bb978f61f10d882c628276d8a12d4,fanduel,-510,390,Boston Celtics
+2023-04-18,Boston Celtics,Atlanta Hawks,200bb978f61f10d882c628276d8a12d4,draftkings,-520,410,Boston Celtics
+2023-04-18,Boston Celtics,Atlanta Hawks,200bb978f61f10d882c628276d8a12d4,caesars,-550,400,Boston Celtics
+2023-04-18,Boston Celtics,Atlanta Hawks,200bb978f61f10d882c628276d8a12d4,betmgm,-600,425,Boston Celtics
+2023-04-18,Boston Celtics,Atlanta Hawks,200bb978f61f10d882c628276d8a12d4,barstool,-500,380,Boston Celtics
+2023-04-18,Cleveland Cavaliers,New York Knicks,f87e2126bc90f0d939cb53b4911af364,fanduel,-215,180,Cleveland Cavaliers
+2023-04-18,Cleveland Cavaliers,New York Knicks,f87e2126bc90f0d939cb53b4911af364,draftkings,-210,180,Cleveland Cavaliers
+2023-04-18,Cleveland Cavaliers,New York Knicks,f87e2126bc90f0d939cb53b4911af364,caesars,-225,185,Cleveland Cavaliers
+2023-04-18,Cleveland Cavaliers,New York Knicks,f87e2126bc90f0d939cb53b4911af364,betmgm,-225,180,Cleveland Cavaliers
+2023-04-18,Cleveland Cavaliers,New York Knicks,f87e2126bc90f0d939cb53b4911af364,barstool,-210,175,Cleveland Cavaliers
+2023-04-18,Phoenix Suns,LA Clippers,7c6807f06c72b08f0789f4362d252fc6,fanduel,-330,265,Phoenix Suns
+2023-04-18,Phoenix Suns,LA Clippers,7c6807f06c72b08f0789f4362d252fc6,draftkings,-320,265,Phoenix Suns
+2023-04-18,Phoenix Suns,LA Clippers,7c6807f06c72b08f0789f4362d252fc6,caesars,-345,270,Phoenix Suns
+2023-04-18,Phoenix Suns,LA Clippers,7c6807f06c72b08f0789f4362d252fc6,betmgm,-350,260,Phoenix Suns
+2023-04-18,Phoenix Suns,LA Clippers,7c6807f06c72b08f0789f4362d252fc6,barstool,-315,260,Phoenix Suns
+2023-04-19,Memphis Grizzlies,Los Angeles Lakers,dc17f8f86e535282fd61c83d67a9a30b,fanduel,-104,-112,Memphis Grizzlies
+2023-04-19,Memphis Grizzlies,Los Angeles Lakers,dc17f8f86e535282fd61c83d67a9a30b,draftkings,-105,-115,Memphis Grizzlies
+2023-04-19,Memphis Grizzlies,Los Angeles Lakers,dc17f8f86e535282fd61c83d67a9a30b,caesars,-105,-115,Memphis Grizzlies
+2023-04-19,Memphis Grizzlies,Los Angeles Lakers,dc17f8f86e535282fd61c83d67a9a30b,betmgm,-105,-115,Memphis Grizzlies
+2023-04-19,Memphis Grizzlies,Los Angeles Lakers,dc17f8f86e535282fd61c83d67a9a30b,barstool,-107,-112,Memphis Grizzlies
+2023-04-19,Milwaukee Bucks,Miami Heat,4f63b96152e37200168cf20285fd4aa7,fanduel,-260,215,Milwaukee Bucks
+2023-04-19,Milwaukee Bucks,Miami Heat,4f63b96152e37200168cf20285fd4aa7,draftkings,-240,200,Milwaukee Bucks
+2023-04-19,Milwaukee Bucks,Miami Heat,4f63b96152e37200168cf20285fd4aa7,caesars,-420,320,Milwaukee Bucks
+2023-04-19,Milwaukee Bucks,Miami Heat,4f63b96152e37200168cf20285fd4aa7,betmgm,-400,310,Milwaukee Bucks
+2023-04-19,Milwaukee Bucks,Miami Heat,4f63b96152e37200168cf20285fd4aa7,barstool,-385,300,Milwaukee Bucks
+2023-04-19,Denver Nuggets,Minnesota Timberwolves,926b45d0ebe093d38919b8b9dcbb2179,fanduel,-360,290,Denver Nuggets
+2023-04-19,Denver Nuggets,Minnesota Timberwolves,926b45d0ebe093d38919b8b9dcbb2179,draftkings,-350,290,Denver Nuggets
+2023-04-19,Denver Nuggets,Minnesota Timberwolves,926b45d0ebe093d38919b8b9dcbb2179,caesars,-355,278,Denver Nuggets
+2023-04-19,Denver Nuggets,Minnesota Timberwolves,926b45d0ebe093d38919b8b9dcbb2179,betmgm,-375,290,Denver Nuggets
+2023-04-19,Denver Nuggets,Minnesota Timberwolves,926b45d0ebe093d38919b8b9dcbb2179,barstool,-360,285,Denver Nuggets
+2023-04-20,Brooklyn Nets,Philadelphia 76ers,4e22accceb8af8d8f6817aecc9898a3c,fanduel,164,-196,Philadelphia 76ers
+2023-04-20,Brooklyn Nets,Philadelphia 76ers,4e22accceb8af8d8f6817aecc9898a3c,draftkings,165,-195,Philadelphia 76ers
+2023-04-20,Brooklyn Nets,Philadelphia 76ers,4e22accceb8af8d8f6817aecc9898a3c,caesars,162,-195,Philadelphia 76ers
+2023-04-20,Brooklyn Nets,Philadelphia 76ers,4e22accceb8af8d8f6817aecc9898a3c,betmgm,155,-190,Philadelphia 76ers
+2023-04-20,Brooklyn Nets,Philadelphia 76ers,4e22accceb8af8d8f6817aecc9898a3c,barstool,163,-200,Philadelphia 76ers
+2023-04-20,Golden State Warriors,Sacramento Kings,305444865b7450141fa61fa5deb62828,fanduel,-225,188,Golden State Warriors
+2023-04-20,Golden State Warriors,Sacramento Kings,305444865b7450141fa61fa5deb62828,draftkings,-230,195,Golden State Warriors
+2023-04-20,Golden State Warriors,Sacramento Kings,305444865b7450141fa61fa5deb62828,caesars,-305,240,Golden State Warriors
+2023-04-20,Golden State Warriors,Sacramento Kings,305444865b7450141fa61fa5deb62828,betmgm,-225,185,Golden State Warriors
+2023-04-20,Golden State Warriors,Sacramento Kings,305444865b7450141fa61fa5deb62828,barstool,-240,190,Golden State Warriors
+2023-04-20,LA Clippers,Phoenix Suns,2fb312686cb06a76fb7575f153280c76,fanduel,120,-142,Phoenix Suns
+2023-04-20,LA Clippers,Phoenix Suns,2fb312686cb06a76fb7575f153280c76,draftkings,120,-140,Phoenix Suns
+2023-04-20,LA Clippers,Phoenix Suns,2fb312686cb06a76fb7575f153280c76,betmgm,120,-145,Phoenix Suns
+2023-04-20,LA Clippers,Phoenix Suns,2fb312686cb06a76fb7575f153280c76,barstool,118,-141,Phoenix Suns
+2023-04-21,Atlanta Hawks,Boston Celtics,1782284ec07bd4c4c6592b16aa4097e6,fanduel,180,-215,Atlanta Hawks
+2023-04-21,Atlanta Hawks,Boston Celtics,1782284ec07bd4c4c6592b16aa4097e6,draftkings,175,-205,Atlanta Hawks
+2023-04-21,Atlanta Hawks,Boston Celtics,1782284ec07bd4c4c6592b16aa4097e6,betmgm,165,-200,Atlanta Hawks
+2023-04-21,Atlanta Hawks,Boston Celtics,1782284ec07bd4c4c6592b16aa4097e6,barstool,165,-200,Atlanta Hawks
+2023-04-21,New York Knicks,Cleveland Cavaliers,720ecda0d8ce083110835985081411f7,fanduel,-130,110,New York Knicks
+2023-04-21,New York Knicks,Cleveland Cavaliers,720ecda0d8ce083110835985081411f7,draftkings,-130,110,New York Knicks
+2023-04-21,New York Knicks,Cleveland Cavaliers,720ecda0d8ce083110835985081411f7,betmgm,-125,105,New York Knicks
+2023-04-21,New York Knicks,Cleveland Cavaliers,720ecda0d8ce083110835985081411f7,barstool,-132,112,New York Knicks
+2023-04-21,Minnesota Timberwolves,Denver Nuggets,d76d1641cbdeb97687e32c1d46d303ab,fanduel,120,-142,Denver Nuggets
+2023-04-21,Minnesota Timberwolves,Denver Nuggets,d76d1641cbdeb97687e32c1d46d303ab,draftkings,115,-135,Denver Nuggets
+2023-04-21,Minnesota Timberwolves,Denver Nuggets,d76d1641cbdeb97687e32c1d46d303ab,betmgm,110,-135,Denver Nuggets
+2023-04-21,Minnesota Timberwolves,Denver Nuggets,d76d1641cbdeb97687e32c1d46d303ab,barstool,116,-137,Denver Nuggets
+2023-04-22,Brooklyn Nets,Philadelphia 76ers,6410fd658700e3a962814b29456d7d99,fanduel,106,-124,Philadelphia 76ers
+2023-04-22,Brooklyn Nets,Philadelphia 76ers,6410fd658700e3a962814b29456d7d99,draftkings,115,-135,Philadelphia 76ers
+2023-04-22,Brooklyn Nets,Philadelphia 76ers,6410fd658700e3a962814b29456d7d99,betmgm,110,-135,Philadelphia 76ers
+2023-04-22,Brooklyn Nets,Philadelphia 76ers,6410fd658700e3a962814b29456d7d99,barstool,112,-136,Philadelphia 76ers
+2023-04-22,LA Clippers,Phoenix Suns,1234fd1858e9953500e385a14700b1a7,fanduel,250,-310,Phoenix Suns
+2023-04-22,LA Clippers,Phoenix Suns,1234fd1858e9953500e385a14700b1a7,draftkings,250,-300,Phoenix Suns
+2023-04-22,LA Clippers,Phoenix Suns,1234fd1858e9953500e385a14700b1a7,betmgm,260,-350,Phoenix Suns
+2023-04-22,LA Clippers,Phoenix Suns,1234fd1858e9953500e385a14700b1a7,barstool,245,-305,Phoenix Suns
+2023-04-22,Miami Heat,Milwaukee Bucks,e34bf4d9fed158be10fe5ef0ce5ed894,fanduel,172,-205,Miami Heat
+2023-04-22,Miami Heat,Milwaukee Bucks,e34bf4d9fed158be10fe5ef0ce5ed894,draftkings,170,-200,Miami Heat
+2023-04-22,Miami Heat,Milwaukee Bucks,e34bf4d9fed158be10fe5ef0ce5ed894,betmgm,170,-210,Miami Heat
+2023-04-22,Miami Heat,Milwaukee Bucks,e34bf4d9fed158be10fe5ef0ce5ed894,barstool,165,-200,Miami Heat
+2023-04-22,Los Angeles Lakers,Memphis Grizzlies,dbceb7d236106a2e8843f1a15624cedb,fanduel,-190,160,Los Angeles Lakers
+2023-04-22,Los Angeles Lakers,Memphis Grizzlies,dbceb7d236106a2e8843f1a15624cedb,draftkings,-180,155,Los Angeles Lakers
+2023-04-22,Los Angeles Lakers,Memphis Grizzlies,dbceb7d236106a2e8843f1a15624cedb,betmgm,-185,150,Los Angeles Lakers
+2023-04-22,Los Angeles Lakers,Memphis Grizzlies,dbceb7d236106a2e8843f1a15624cedb,barstool,-186,155,Los Angeles Lakers
+2023-04-23,New York Knicks,Cleveland Cavaliers,2ba2ecbbf1bc32cbfc07074566a68a99,fanduel,-126,108,New York Knicks
+2023-04-23,New York Knicks,Cleveland Cavaliers,2ba2ecbbf1bc32cbfc07074566a68a99,draftkings,-140,120,New York Knicks
+2023-04-23,New York Knicks,Cleveland Cavaliers,2ba2ecbbf1bc32cbfc07074566a68a99,betmgm,-145,120,New York Knicks
+2023-04-23,New York Knicks,Cleveland Cavaliers,2ba2ecbbf1bc32cbfc07074566a68a99,barstool,-141,118,New York Knicks
+2023-04-23,Golden State Warriors,Sacramento Kings,e39a3da2f5fadfd85a9da3318106a7e2,fanduel,-335,290,Golden State Warriors
+2023-04-23,Golden State Warriors,Sacramento Kings,e39a3da2f5fadfd85a9da3318106a7e2,draftkings,-325,270,Golden State Warriors
+2023-04-23,Golden State Warriors,Sacramento Kings,e39a3da2f5fadfd85a9da3318106a7e2,betmgm,-350,260,Golden State Warriors
+2023-04-23,Golden State Warriors,Sacramento Kings,e39a3da2f5fadfd85a9da3318106a7e2,barstool,-315,250,Golden State Warriors
+2023-04-23,Atlanta Hawks,Boston Celtics,9f9732e7e846b2d4b935998d5da06261,fanduel,190,-230,Boston Celtics
+2023-04-23,Atlanta Hawks,Boston Celtics,9f9732e7e846b2d4b935998d5da06261,draftkings,210,-250,Boston Celtics
+2023-04-23,Atlanta Hawks,Boston Celtics,9f9732e7e846b2d4b935998d5da06261,betmgm,195,-250,Boston Celtics
+2023-04-23,Atlanta Hawks,Boston Celtics,9f9732e7e846b2d4b935998d5da06261,barstool,200,-245,Boston Celtics
+2023-04-23,Minnesota Timberwolves,Denver Nuggets,1213614e90a3a68e33c4fa6c33871536,fanduel,136,-162,Minnesota Timberwolves
+2023-04-23,Minnesota Timberwolves,Denver Nuggets,1213614e90a3a68e33c4fa6c33871536,draftkings,140,-165,Minnesota Timberwolves
+2023-04-23,Minnesota Timberwolves,Denver Nuggets,1213614e90a3a68e33c4fa6c33871536,betmgm,135,-160,Minnesota Timberwolves
+2023-04-23,Minnesota Timberwolves,Denver Nuggets,1213614e90a3a68e33c4fa6c33871536,barstool,135,-159,Minnesota Timberwolves
+2023-04-24,Miami Heat,Milwaukee Bucks,a67920528c9a62f2950307e5cf2501f7,fanduel,190,-230,Miami Heat
+2023-04-24,Miami Heat,Milwaukee Bucks,a67920528c9a62f2950307e5cf2501f7,pinnacle,201,-228,Miami Heat
+2023-04-24,Miami Heat,Milwaukee Bucks,a67920528c9a62f2950307e5cf2501f7,draftkings,190,-225,Miami Heat
+2023-04-24,Miami Heat,Milwaukee Bucks,a67920528c9a62f2950307e5cf2501f7,betmgm,180,-225,Miami Heat
+2023-04-24,Miami Heat,Milwaukee Bucks,a67920528c9a62f2950307e5cf2501f7,barstool,190,-230,Miami Heat
+2023-04-24,Los Angeles Lakers,Memphis Grizzlies,c55751da43014d248c1d0bbe1c19f71a,fanduel,-190,160,Los Angeles Lakers
+2023-04-24,Los Angeles Lakers,Memphis Grizzlies,c55751da43014d248c1d0bbe1c19f71a,pinnacle,-130,116,Los Angeles Lakers
+2023-04-24,Los Angeles Lakers,Memphis Grizzlies,c55751da43014d248c1d0bbe1c19f71a,draftkings,-190,160,Los Angeles Lakers
+2023-04-24,Los Angeles Lakers,Memphis Grizzlies,c55751da43014d248c1d0bbe1c19f71a,betmgm,-200,165,Los Angeles Lakers
+2023-04-24,Los Angeles Lakers,Memphis Grizzlies,c55751da43014d248c1d0bbe1c19f71a,barstool,-200,165,Los Angeles Lakers
+2023-04-25,Boston Celtics,Atlanta Hawks,39db0481965b96c6166bbaca7a474651,fanduel,-900,610,Atlanta Hawks
+2023-04-25,Boston Celtics,Atlanta Hawks,39db0481965b96c6166bbaca7a474651,pinnacle,-786,591,Atlanta Hawks
+2023-04-25,Boston Celtics,Atlanta Hawks,39db0481965b96c6166bbaca7a474651,draftkings,-900,625,Atlanta Hawks
+2023-04-25,Boston Celtics,Atlanta Hawks,39db0481965b96c6166bbaca7a474651,betmgm,-1000,625,Atlanta Hawks
+2023-04-25,Boston Celtics,Atlanta Hawks,39db0481965b96c6166bbaca7a474651,barstool,-770,525,Atlanta Hawks
+2023-04-25,Denver Nuggets,Minnesota Timberwolves,5c5cd762c3b90adc29a76f023d2c8506,fanduel,-480,370,Denver Nuggets
+2023-04-25,Denver Nuggets,Minnesota Timberwolves,5c5cd762c3b90adc29a76f023d2c8506,pinnacle,-194,169,Denver Nuggets
+2023-04-25,Denver Nuggets,Minnesota Timberwolves,5c5cd762c3b90adc29a76f023d2c8506,draftkings,-450,360,Denver Nuggets
+2023-04-25,Denver Nuggets,Minnesota Timberwolves,5c5cd762c3b90adc29a76f023d2c8506,betmgm,-450,350,Denver Nuggets
+2023-04-25,Denver Nuggets,Minnesota Timberwolves,5c5cd762c3b90adc29a76f023d2c8506,barstool,-455,350,Denver Nuggets
+2023-04-25,Phoenix Suns,LA Clippers,6b75807644756c992b6db9d82ba5381d,fanduel,-900,610,Phoenix Suns
+2023-04-25,Phoenix Suns,LA Clippers,6b75807644756c992b6db9d82ba5381d,pinnacle,-427,341,Phoenix Suns
+2023-04-25,Phoenix Suns,LA Clippers,6b75807644756c992b6db9d82ba5381d,draftkings,-800,575,Phoenix Suns
+2023-04-25,Phoenix Suns,LA Clippers,6b75807644756c992b6db9d82ba5381d,betmgm,-900,600,Phoenix Suns
+2023-04-25,Phoenix Suns,LA Clippers,6b75807644756c992b6db9d82ba5381d,barstool,-770,540,Phoenix Suns
+2023-04-26,Cleveland Cavaliers,New York Knicks,76e79ab99c204edd0fa977c76eafad78,fanduel,-220,184,New York Knicks
+2023-04-26,Cleveland Cavaliers,New York Knicks,76e79ab99c204edd0fa977c76eafad78,pinnacle,-129,114,New York Knicks
+2023-04-26,Cleveland Cavaliers,New York Knicks,76e79ab99c204edd0fa977c76eafad78,draftkings,-215,185,New York Knicks
+2023-04-26,Cleveland Cavaliers,New York Knicks,76e79ab99c204edd0fa977c76eafad78,betmgm,-225,185,New York Knicks
+2023-04-26,Cleveland Cavaliers,New York Knicks,76e79ab99c204edd0fa977c76eafad78,barstool,-235,190,New York Knicks
+2023-04-26,Memphis Grizzlies,Los Angeles Lakers,a49e1e84d21df8452b4727b36bd13877,fanduel,-174,146,Memphis Grizzlies
+2023-04-26,Memphis Grizzlies,Los Angeles Lakers,a49e1e84d21df8452b4727b36bd13877,pinnacle,-161,142,Memphis Grizzlies
+2023-04-26,Memphis Grizzlies,Los Angeles Lakers,a49e1e84d21df8452b4727b36bd13877,draftkings,-170,145,Memphis Grizzlies
+2023-04-26,Memphis Grizzlies,Los Angeles Lakers,a49e1e84d21df8452b4727b36bd13877,betmgm,-185,150,Memphis Grizzlies
+2023-04-26,Memphis Grizzlies,Los Angeles Lakers,a49e1e84d21df8452b4727b36bd13877,barstool,-177,148,Memphis Grizzlies
+2023-04-26,Milwaukee Bucks,Miami Heat,3c106414e87474b18b6e5c978b1123a7,fanduel,-620,460,Miami Heat
+2023-04-26,Milwaukee Bucks,Miami Heat,3c106414e87474b18b6e5c978b1123a7,pinnacle,-559,445,Miami Heat
+2023-04-26,Milwaukee Bucks,Miami Heat,3c106414e87474b18b6e5c978b1123a7,draftkings,-610,460,Miami Heat
+2023-04-26,Milwaukee Bucks,Miami Heat,3c106414e87474b18b6e5c978b1123a7,betmgm,-650,475,Miami Heat
+2023-04-26,Milwaukee Bucks,Miami Heat,3c106414e87474b18b6e5c978b1123a7,barstool,-625,450,Miami Heat
+2023-04-26,Sacramento Kings,Golden State Warriors,0cefbb259938c3104b19a118d40bb4fe,fanduel,108,-122,Golden State Warriors
+2023-04-26,Sacramento Kings,Golden State Warriors,0cefbb259938c3104b19a118d40bb4fe,pinnacle,108,-119,Golden State Warriors
+2023-04-26,Sacramento Kings,Golden State Warriors,0cefbb259938c3104b19a118d40bb4fe,draftkings,100,-120,Golden State Warriors
+2023-04-26,Sacramento Kings,Golden State Warriors,0cefbb259938c3104b19a118d40bb4fe,betmgm,105,-125,Golden State Warriors
+2023-04-26,Sacramento Kings,Golden State Warriors,0cefbb259938c3104b19a118d40bb4fe,barstool,102,-121,Golden State Warriors
+2023-04-27,Atlanta Hawks,Boston Celtics,48ea5cf48ab1e937af8d7e4d268d1e1b,fanduel,220,-270,Boston Celtics
+2023-04-27,Atlanta Hawks,Boston Celtics,48ea5cf48ab1e937af8d7e4d268d1e1b,pinnacle,227,-260,Boston Celtics
+2023-04-27,Atlanta Hawks,Boston Celtics,48ea5cf48ab1e937af8d7e4d268d1e1b,draftkings,215,-255,Boston Celtics
+2023-04-27,Atlanta Hawks,Boston Celtics,48ea5cf48ab1e937af8d7e4d268d1e1b,betmgm,220,-275,Boston Celtics
+2023-04-27,Atlanta Hawks,Boston Celtics,48ea5cf48ab1e937af8d7e4d268d1e1b,barstool,200,-245,Boston Celtics
+2023-04-28,Golden State Warriors,Sacramento Kings,c03071bea64f5795b434c3f15252fb59,fanduel,-300,245,Sacramento Kings
+2023-04-28,Golden State Warriors,Sacramento Kings,c03071bea64f5795b434c3f15252fb59,pinnacle,-170,149,Sacramento Kings
+2023-04-28,Golden State Warriors,Sacramento Kings,c03071bea64f5795b434c3f15252fb59,draftkings,-305,255,Sacramento Kings
+2023-04-28,Golden State Warriors,Sacramento Kings,c03071bea64f5795b434c3f15252fb59,betmgm,-300,240,Sacramento Kings
+2023-04-28,Golden State Warriors,Sacramento Kings,c03071bea64f5795b434c3f15252fb59,barstool,-295,240,Sacramento Kings
+2023-04-28,Los Angeles Lakers,Memphis Grizzlies,5243998e9092f4a022861cc503c8ce9d,fanduel,-190,160,Los Angeles Lakers
+2023-04-28,Los Angeles Lakers,Memphis Grizzlies,5243998e9092f4a022861cc503c8ce9d,pinnacle,-185,165,Los Angeles Lakers
+2023-04-28,Los Angeles Lakers,Memphis Grizzlies,5243998e9092f4a022861cc503c8ce9d,draftkings,-190,160,Los Angeles Lakers
+2023-04-28,Los Angeles Lakers,Memphis Grizzlies,5243998e9092f4a022861cc503c8ce9d,betmgm,-200,165,Los Angeles Lakers
+2023-04-28,Los Angeles Lakers,Memphis Grizzlies,5243998e9092f4a022861cc503c8ce9d,barstool,-195,160,Los Angeles Lakers
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,fanduel,-142,120,Denver Nuggets
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,pinnacle,-150,135,Denver Nuggets
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,draftkings,-140,120,Denver Nuggets
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,caesars,-140,118,Denver Nuggets
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,betmgm,-150,125,Denver Nuggets
+2023-04-29,Denver Nuggets,Phoenix Suns,932d59ce51817c331550ddc99a1235b3,barstool,-148,125,Denver Nuggets
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,fanduel,-198,166,Miami Heat
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,pinnacle,-189,169,Miami Heat
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,draftkings,-190,160,Miami Heat
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,caesars,-180,152,Miami Heat
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,betmgm,-200,165,Miami Heat
+2023-04-30,New York Knicks,Miami Heat,e0b85b10ba88177587465533b57957b7,barstool,-210,175,Miami Heat
+2023-04-30,Sacramento Kings,Golden State Warriors,71d6c6bb626acbebffeedab63fbd30ae,fanduel,-120,102,Golden State Warriors
+2023-04-30,Sacramento Kings,Golden State Warriors,71d6c6bb626acbebffeedab63fbd30ae,pinnacle,-108,-102,Golden State Warriors
+2023-04-30,Sacramento Kings,Golden State Warriors,71d6c6bb626acbebffeedab63fbd30ae,draftkings,-125,105,Golden State Warriors
+2023-04-30,Sacramento Kings,Golden State Warriors,71d6c6bb626acbebffeedab63fbd30ae,betmgm,-125,105,Golden State Warriors
+2023-04-30,Sacramento Kings,Golden State Warriors,71d6c6bb626acbebffeedab63fbd30ae,barstool,-120,102,Golden State Warriors
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,fanduel,-490,380,Philadelphia 76ers
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,pinnacle,-181,158,Philadelphia 76ers
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,draftkings,-500,400,Philadelphia 76ers
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,caesars,-305,240,Philadelphia 76ers
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,betmgm,-550,400,Philadelphia 76ers
+2023-05-01,Boston Celtics,Philadelphia 76ers,293f5932d7701dbdd38e049b3bc998dd,barstool,-500,375,Philadelphia 76ers
+2023-05-01,Denver Nuggets,Phoenix Suns,420fbe2764aadc65f09aa2df75ed6680,fanduel,-188,158,Denver Nuggets
+2023-05-01,Denver Nuggets,Phoenix Suns,420fbe2764aadc65f09aa2df75ed6680,pinnacle,-182,164,Denver Nuggets
+2023-05-01,Denver Nuggets,Phoenix Suns,420fbe2764aadc65f09aa2df75ed6680,draftkings,-190,160,Denver Nuggets
+2023-05-01,Denver Nuggets,Phoenix Suns,420fbe2764aadc65f09aa2df75ed6680,betmgm,-190,155,Denver Nuggets
+2023-05-01,Denver Nuggets,Phoenix Suns,420fbe2764aadc65f09aa2df75ed6680,barstool,-186,155,Denver Nuggets
+2023-05-02,New York Knicks,Miami Heat,bc79b89db28e308f9f7cb4ca51db2a9d,fanduel,-275,225,New York Knicks
+2023-05-02,New York Knicks,Miami Heat,bc79b89db28e308f9f7cb4ca51db2a9d,pinnacle,-271,236,New York Knicks
+2023-05-02,New York Knicks,Miami Heat,bc79b89db28e308f9f7cb4ca51db2a9d,draftkings,-275,230,New York Knicks
+2023-05-02,New York Knicks,Miami Heat,bc79b89db28e308f9f7cb4ca51db2a9d,betmgm,-275,220,New York Knicks
+2023-05-02,New York Knicks,Miami Heat,bc79b89db28e308f9f7cb4ca51db2a9d,barstool,-265,215,New York Knicks
+2023-05-02,Golden State Warriors,Los Angeles Lakers,e012bab75156a2414fba68da0eee2da5,fanduel,-198,166,Los Angeles Lakers
+2023-05-02,Golden State Warriors,Los Angeles Lakers,e012bab75156a2414fba68da0eee2da5,pinnacle,-179,160,Los Angeles Lakers
+2023-05-02,Golden State Warriors,Los Angeles Lakers,e012bab75156a2414fba68da0eee2da5,draftkings,-190,160,Los Angeles Lakers
+2023-05-02,Golden State Warriors,Los Angeles Lakers,e012bab75156a2414fba68da0eee2da5,betmgm,-190,155,Los Angeles Lakers
+2023-05-02,Golden State Warriors,Los Angeles Lakers,e012bab75156a2414fba68da0eee2da5,barstool,-190,160,Los Angeles Lakers
+2023-05-03,Boston Celtics,Philadelphia 76ers,9563cc25b697a04186f78a6263410a8d,fanduel,-520,390,Boston Celtics
+2023-05-03,Boston Celtics,Philadelphia 76ers,9563cc25b697a04186f78a6263410a8d,pinnacle,-249,212,Boston Celtics
+2023-05-03,Boston Celtics,Philadelphia 76ers,9563cc25b697a04186f78a6263410a8d,draftkings,-500,400,Boston Celtics
+2023-05-03,Boston Celtics,Philadelphia 76ers,9563cc25b697a04186f78a6263410a8d,betmgm,-550,400,Boston Celtics
+2023-05-03,Boston Celtics,Philadelphia 76ers,9563cc25b697a04186f78a6263410a8d,barstool,-480,360,Boston Celtics
+2023-05-04,Golden State Warriors,Los Angeles Lakers,49c8daf0ea1520c23152ff9f9ec60ab8,fanduel,-250,205,Golden State Warriors
+2023-05-04,Golden State Warriors,Los Angeles Lakers,49c8daf0ea1520c23152ff9f9ec60ab8,pinnacle,-242,212,Golden State Warriors
+2023-05-04,Golden State Warriors,Los Angeles Lakers,49c8daf0ea1520c23152ff9f9ec60ab8,draftkings,-240,200,Golden State Warriors
+2023-05-04,Golden State Warriors,Los Angeles Lakers,49c8daf0ea1520c23152ff9f9ec60ab8,betmgm,-250,200,Golden State Warriors
+2023-05-04,Golden State Warriors,Los Angeles Lakers,49c8daf0ea1520c23152ff9f9ec60ab8,barstool,-245,205,Golden State Warriors
+2023-05-05,Philadelphia 76ers,Boston Celtics,fd69d9728798b16c1af91d00ced90fa5,fanduel,110,-130,Boston Celtics
+2023-05-05,Philadelphia 76ers,Boston Celtics,fd69d9728798b16c1af91d00ced90fa5,pinnacle,106,-119,Boston Celtics
+2023-05-05,Philadelphia 76ers,Boston Celtics,fd69d9728798b16c1af91d00ced90fa5,draftkings,120,-140,Boston Celtics
+2023-05-05,Philadelphia 76ers,Boston Celtics,fd69d9728798b16c1af91d00ced90fa5,betmgm,110,-135,Boston Celtics
+2023-05-05,Philadelphia 76ers,Boston Celtics,fd69d9728798b16c1af91d00ced90fa5,barstool,110,-129,Boston Celtics
+2023-05-05,Phoenix Suns,Denver Nuggets,23dfe19c76c874e16c253d990953713c,fanduel,-168,142,Phoenix Suns
+2023-05-05,Phoenix Suns,Denver Nuggets,23dfe19c76c874e16c253d990953713c,pinnacle,-156,137,Phoenix Suns
+2023-05-05,Phoenix Suns,Denver Nuggets,23dfe19c76c874e16c253d990953713c,draftkings,-180,155,Phoenix Suns
+2023-05-05,Phoenix Suns,Denver Nuggets,23dfe19c76c874e16c253d990953713c,betmgm,-190,155,Phoenix Suns
+2023-05-05,Phoenix Suns,Denver Nuggets,23dfe19c76c874e16c253d990953713c,barstool,-182,155,Phoenix Suns
+2023-05-06,Miami Heat,New York Knicks,8f14b1dbd29fd88114e01b127deca0b4,fanduel,-180,152,Miami Heat
+2023-05-06,Miami Heat,New York Knicks,8f14b1dbd29fd88114e01b127deca0b4,pinnacle,-169,151,Miami Heat
+2023-05-06,Miami Heat,New York Knicks,8f14b1dbd29fd88114e01b127deca0b4,draftkings,-170,145,Miami Heat
+2023-05-06,Miami Heat,New York Knicks,8f14b1dbd29fd88114e01b127deca0b4,betmgm,-185,150,Miami Heat
+2023-05-06,Miami Heat,New York Knicks,8f14b1dbd29fd88114e01b127deca0b4,barstool,-167,143,Miami Heat
+2023-05-06,Los Angeles Lakers,Golden State Warriors,dc2b57709db77157396bf3484fe25ce4,fanduel,-152,128,Los Angeles Lakers
+2023-05-06,Los Angeles Lakers,Golden State Warriors,dc2b57709db77157396bf3484fe25ce4,pinnacle,-147,130,Los Angeles Lakers
+2023-05-06,Los Angeles Lakers,Golden State Warriors,dc2b57709db77157396bf3484fe25ce4,draftkings,-150,130,Los Angeles Lakers
+2023-05-06,Los Angeles Lakers,Golden State Warriors,dc2b57709db77157396bf3484fe25ce4,betmgm,-155,125,Los Angeles Lakers
+2023-05-06,Los Angeles Lakers,Golden State Warriors,dc2b57709db77157396bf3484fe25ce4,barstool,-155,130,Los Angeles Lakers
+2023-05-07,Philadelphia 76ers,Boston Celtics,a5d3945b50b8229f09f647c476962240,fanduel,118,-138,Philadelphia 76ers
+2023-05-07,Philadelphia 76ers,Boston Celtics,a5d3945b50b8229f09f647c476962240,pinnacle,101,-114,Philadelphia 76ers
+2023-05-07,Philadelphia 76ers,Boston Celtics,a5d3945b50b8229f09f647c476962240,draftkings,120,-140,Philadelphia 76ers
+2023-05-07,Philadelphia 76ers,Boston Celtics,a5d3945b50b8229f09f647c476962240,betmgm,120,-145,Philadelphia 76ers
+2023-05-07,Philadelphia 76ers,Boston Celtics,a5d3945b50b8229f09f647c476962240,barstool,117,-137,Philadelphia 76ers
+2023-05-07,Phoenix Suns,Denver Nuggets,5d17247333898dcef28978afbae3d4b6,fanduel,-146,124,Phoenix Suns
+2023-05-07,Phoenix Suns,Denver Nuggets,5d17247333898dcef28978afbae3d4b6,pinnacle,-137,124,Phoenix Suns
+2023-05-07,Phoenix Suns,Denver Nuggets,5d17247333898dcef28978afbae3d4b6,draftkings,-140,120,Phoenix Suns
+2023-05-07,Phoenix Suns,Denver Nuggets,5d17247333898dcef28978afbae3d4b6,betmgm,-145,120,Phoenix Suns
+2023-05-07,Phoenix Suns,Denver Nuggets,5d17247333898dcef28978afbae3d4b6,barstool,-139,118,Phoenix Suns
+2023-05-08,Miami Heat,New York Knicks,e6e38ff205df7c5fe477650e45342cf1,fanduel,-184,154,Miami Heat
+2023-05-08,Miami Heat,New York Knicks,e6e38ff205df7c5fe477650e45342cf1,pinnacle,-182,162,Miami Heat
+2023-05-08,Miami Heat,New York Knicks,e6e38ff205df7c5fe477650e45342cf1,draftkings,-180,155,Miami Heat
+2023-05-08,Miami Heat,New York Knicks,e6e38ff205df7c5fe477650e45342cf1,betmgm,-190,155,Miami Heat
+2023-05-08,Miami Heat,New York Knicks,e6e38ff205df7c5fe477650e45342cf1,barstool,-190,160,Miami Heat
+2023-05-08,Los Angeles Lakers,Golden State Warriors,b236aa5467bc17ced7a94f9b0a623041,fanduel,-156,132,Los Angeles Lakers
+2023-05-08,Los Angeles Lakers,Golden State Warriors,b236aa5467bc17ced7a94f9b0a623041,pinnacle,-135,120,Los Angeles Lakers
+2023-05-08,Los Angeles Lakers,Golden State Warriors,b236aa5467bc17ced7a94f9b0a623041,draftkings,-150,130,Los Angeles Lakers
+2023-05-08,Los Angeles Lakers,Golden State Warriors,b236aa5467bc17ced7a94f9b0a623041,betmgm,-160,135,Los Angeles Lakers
+2023-05-08,Los Angeles Lakers,Golden State Warriors,b236aa5467bc17ced7a94f9b0a623041,barstool,-143,120,Los Angeles Lakers
+2023-05-09,Boston Celtics,Philadelphia 76ers,dc0a02b77c5176c66746baf86546a3ad,fanduel,-300,245,Philadelphia 76ers
+2023-05-09,Boston Celtics,Philadelphia 76ers,dc0a02b77c5176c66746baf86546a3ad,pinnacle,-297,256,Philadelphia 76ers
+2023-05-09,Boston Celtics,Philadelphia 76ers,dc0a02b77c5176c66746baf86546a3ad,draftkings,-300,250,Philadelphia 76ers
+2023-05-09,Boston Celtics,Philadelphia 76ers,dc0a02b77c5176c66746baf86546a3ad,betmgm,-300,240,Philadelphia 76ers
+2023-05-09,Boston Celtics,Philadelphia 76ers,dc0a02b77c5176c66746baf86546a3ad,barstool,-305,250,Philadelphia 76ers
+2023-05-09,Denver Nuggets,Phoenix Suns,b13a682fab35fa471075b948a5b48b99,fanduel,-225,188,Denver Nuggets
+2023-05-09,Denver Nuggets,Phoenix Suns,b13a682fab35fa471075b948a5b48b99,pinnacle,-134,119,Denver Nuggets
+2023-05-09,Denver Nuggets,Phoenix Suns,b13a682fab35fa471075b948a5b48b99,draftkings,-210,180,Denver Nuggets
+2023-05-09,Denver Nuggets,Phoenix Suns,b13a682fab35fa471075b948a5b48b99,betmgm,-225,180,Denver Nuggets
+2023-05-09,Denver Nuggets,Phoenix Suns,b13a682fab35fa471075b948a5b48b99,barstool,-220,185,Denver Nuggets
+2023-05-10,New York Knicks,Miami Heat,fe7117c2feb4aec1bea079fa733481ab,fanduel,-164,138,New York Knicks
+2023-05-10,New York Knicks,Miami Heat,fe7117c2feb4aec1bea079fa733481ab,pinnacle,-159,143,New York Knicks
+2023-05-10,New York Knicks,Miami Heat,fe7117c2feb4aec1bea079fa733481ab,draftkings,-170,145,New York Knicks
+2023-05-10,New York Knicks,Miami Heat,fe7117c2feb4aec1bea079fa733481ab,betmgm,-165,140,New York Knicks
+2023-05-10,New York Knicks,Miami Heat,fe7117c2feb4aec1bea079fa733481ab,barstool,-167,143,New York Knicks
+2023-05-10,Golden State Warriors,Los Angeles Lakers,3841c7411bd6873794449055603eebf7,fanduel,-320,260,Golden State Warriors
+2023-05-10,Golden State Warriors,Los Angeles Lakers,3841c7411bd6873794449055603eebf7,pinnacle,-292,252,Golden State Warriors
+2023-05-10,Golden State Warriors,Los Angeles Lakers,3841c7411bd6873794449055603eebf7,draftkings,-305,255,Golden State Warriors
+2023-05-10,Golden State Warriors,Los Angeles Lakers,3841c7411bd6873794449055603eebf7,betmgm,-350,260,Golden State Warriors
+2023-05-10,Golden State Warriors,Los Angeles Lakers,3841c7411bd6873794449055603eebf7,barstool,-286,240,Golden State Warriors
+2023-05-11,Philadelphia 76ers,Boston Celtics,a51e6db725f1265de497a9a3827a452d,fanduel,118,-136,Boston Celtics
+2023-05-11,Philadelphia 76ers,Boston Celtics,a51e6db725f1265de497a9a3827a452d,pinnacle,123,-137,Boston Celtics
+2023-05-11,Philadelphia 76ers,Boston Celtics,a51e6db725f1265de497a9a3827a452d,draftkings,120,-140,Boston Celtics
+2023-05-11,Philadelphia 76ers,Boston Celtics,a51e6db725f1265de497a9a3827a452d,betmgm,115,-140,Boston Celtics
+2023-05-11,Philadelphia 76ers,Boston Celtics,a51e6db725f1265de497a9a3827a452d,barstool,115,-136,Boston Celtics
+2023-05-11,Phoenix Suns,Denver Nuggets,3281cf3d3d05c6afdecd6a748deaec83,fanduel,-154,130,Denver Nuggets
+2023-05-11,Phoenix Suns,Denver Nuggets,3281cf3d3d05c6afdecd6a748deaec83,pinnacle,-149,135,Denver Nuggets
+2023-05-11,Phoenix Suns,Denver Nuggets,3281cf3d3d05c6afdecd6a748deaec83,draftkings,-150,130,Denver Nuggets
+2023-05-11,Phoenix Suns,Denver Nuggets,3281cf3d3d05c6afdecd6a748deaec83,betmgm,-160,135,Denver Nuggets
+2023-05-11,Phoenix Suns,Denver Nuggets,3281cf3d3d05c6afdecd6a748deaec83,barstool,-148,125,Denver Nuggets
+2023-05-12,Miami Heat,New York Knicks,530dcedbde33922b4118ed5a05b6f34b,fanduel,-220,184,Miami Heat
+2023-05-12,Miami Heat,New York Knicks,530dcedbde33922b4118ed5a05b6f34b,pinnacle,-217,192,Miami Heat
+2023-05-12,Miami Heat,New York Knicks,530dcedbde33922b4118ed5a05b6f34b,draftkings,-215,185,Miami Heat
+2023-05-12,Miami Heat,New York Knicks,530dcedbde33922b4118ed5a05b6f34b,betmgm,-225,180,Miami Heat
+2023-05-12,Miami Heat,New York Knicks,530dcedbde33922b4118ed5a05b6f34b,barstool,-210,175,Miami Heat
+2023-05-12,Los Angeles Lakers,Golden State Warriors,441d372a9822412b6ae0e37a67a0c01f,fanduel,-142,120,Los Angeles Lakers
+2023-05-12,Los Angeles Lakers,Golden State Warriors,441d372a9822412b6ae0e37a67a0c01f,pinnacle,-142,128,Los Angeles Lakers
+2023-05-12,Los Angeles Lakers,Golden State Warriors,441d372a9822412b6ae0e37a67a0c01f,draftkings,-140,120,Los Angeles Lakers
+2023-05-12,Los Angeles Lakers,Golden State Warriors,441d372a9822412b6ae0e37a67a0c01f,betmgm,-145,120,Los Angeles Lakers
+2023-05-12,Los Angeles Lakers,Golden State Warriors,441d372a9822412b6ae0e37a67a0c01f,barstool,-137,118,Los Angeles Lakers
+2023-05-14,Boston Celtics,Philadelphia 76ers,15b95c3c12a6aa083d77685cf60c92c0,fanduel,-275,215,Boston Celtics
+2023-05-14,Boston Celtics,Philadelphia 76ers,15b95c3c12a6aa083d77685cf60c92c0,pinnacle,-258,225,Boston Celtics
+2023-05-14,Boston Celtics,Philadelphia 76ers,15b95c3c12a6aa083d77685cf60c92c0,draftkings,-265,225,Boston Celtics
+2023-05-14,Boston Celtics,Philadelphia 76ers,15b95c3c12a6aa083d77685cf60c92c0,betmgm,-275,220,Boston Celtics
+2023-05-14,Boston Celtics,Philadelphia 76ers,15b95c3c12a6aa083d77685cf60c92c0,barstool,-265,215,Boston Celtics
+2023-05-16,Denver Nuggets,Los Angeles Lakers,d933223ffbf092abcde745e058c486f6,fanduel,-240,198,Denver Nuggets
+2023-05-16,Denver Nuggets,Los Angeles Lakers,d933223ffbf092abcde745e058c486f6,pinnacle,-220,195,Denver Nuggets
+2023-05-16,Denver Nuggets,Los Angeles Lakers,d933223ffbf092abcde745e058c486f6,draftkings,-240,200,Denver Nuggets
+2023-05-16,Denver Nuggets,Los Angeles Lakers,d933223ffbf092abcde745e058c486f6,betmgm,-250,200,Denver Nuggets
+2023-05-16,Denver Nuggets,Los Angeles Lakers,d933223ffbf092abcde745e058c486f6,barstool,-225,188,Denver Nuggets
+2023-05-17,Boston Celtics,Miami Heat,946bc3a093ba41074cec069049342109,fanduel,-370,295,Miami Heat
+2023-05-17,Boston Celtics,Miami Heat,946bc3a093ba41074cec069049342109,pinnacle,-366,308,Miami Heat
+2023-05-17,Boston Celtics,Miami Heat,946bc3a093ba41074cec069049342109,draftkings,-365,300,Miami Heat
+2023-05-17,Boston Celtics,Miami Heat,946bc3a093ba41074cec069049342109,betmgm,-350,280,Miami Heat
+2023-05-17,Boston Celtics,Miami Heat,946bc3a093ba41074cec069049342109,barstool,-335,270,Miami Heat
+2023-05-18,Denver Nuggets,Los Angeles Lakers,f6520508500835ab1618b3feeb3806de,fanduel,-210,176,Denver Nuggets
+2023-05-18,Denver Nuggets,Los Angeles Lakers,f6520508500835ab1618b3feeb3806de,pinnacle,-192,171,Denver Nuggets
+2023-05-18,Denver Nuggets,Los Angeles Lakers,f6520508500835ab1618b3feeb3806de,draftkings,-205,175,Denver Nuggets
+2023-05-18,Denver Nuggets,Los Angeles Lakers,f6520508500835ab1618b3feeb3806de,betmgm,-225,180,Denver Nuggets
+2023-05-18,Denver Nuggets,Los Angeles Lakers,f6520508500835ab1618b3feeb3806de,barstool,-215,180,Denver Nuggets
+2023-05-19,Boston Celtics,Miami Heat,cdc48c29e15a253444a02aa46264424a,fanduel,-400,315,Miami Heat
+2023-05-19,Boston Celtics,Miami Heat,cdc48c29e15a253444a02aa46264424a,pinnacle,-378,317,Miami Heat
+2023-05-19,Boston Celtics,Miami Heat,cdc48c29e15a253444a02aa46264424a,draftkings,-390,320,Miami Heat
+2023-05-19,Boston Celtics,Miami Heat,cdc48c29e15a253444a02aa46264424a,betmgm,-400,310,Miami Heat
+2023-05-19,Boston Celtics,Miami Heat,cdc48c29e15a253444a02aa46264424a,barstool,-385,310,Miami Heat
+2023-05-20,Los Angeles Lakers,Denver Nuggets,dcbfc0fc6b504e759f21430170b9326d,fanduel,-230,190,Denver Nuggets
+2023-05-20,Los Angeles Lakers,Denver Nuggets,dcbfc0fc6b504e759f21430170b9326d,pinnacle,-235,206,Denver Nuggets
+2023-05-20,Los Angeles Lakers,Denver Nuggets,dcbfc0fc6b504e759f21430170b9326d,draftkings,-225,190,Denver Nuggets
+2023-05-20,Los Angeles Lakers,Denver Nuggets,dcbfc0fc6b504e759f21430170b9326d,betmgm,-250,190,Denver Nuggets
+2023-05-20,Los Angeles Lakers,Denver Nuggets,dcbfc0fc6b504e759f21430170b9326d,barstool,-230,190,Denver Nuggets
+2023-05-21,Miami Heat,Boston Celtics,ebe100fab6ab9e11fcff9fe9ef836b14,fanduel,132,-156,Miami Heat
+2023-05-21,Miami Heat,Boston Celtics,ebe100fab6ab9e11fcff9fe9ef836b14,pinnacle,148,-165,Miami Heat
+2023-05-21,Miami Heat,Boston Celtics,ebe100fab6ab9e11fcff9fe9ef836b14,draftkings,135,-155,Miami Heat
+2023-05-21,Miami Heat,Boston Celtics,ebe100fab6ab9e11fcff9fe9ef836b14,betmgm,135,-160,Miami Heat
+2023-05-21,Miami Heat,Boston Celtics,ebe100fab6ab9e11fcff9fe9ef836b14,barstool,132,-155,Miami Heat
+2023-05-22,Los Angeles Lakers,Denver Nuggets,24785602fcc1fb40404bd3aec7bf8d7f,fanduel,-156,132,Denver Nuggets
+2023-05-22,Los Angeles Lakers,Denver Nuggets,24785602fcc1fb40404bd3aec7bf8d7f,pinnacle,-164,147,Denver Nuggets
+2023-05-22,Los Angeles Lakers,Denver Nuggets,24785602fcc1fb40404bd3aec7bf8d7f,draftkings,-155,135,Denver Nuggets
+2023-05-22,Los Angeles Lakers,Denver Nuggets,24785602fcc1fb40404bd3aec7bf8d7f,betmgm,-160,135,Denver Nuggets
+2023-05-22,Los Angeles Lakers,Denver Nuggets,24785602fcc1fb40404bd3aec7bf8d7f,barstool,-155,132,Denver Nuggets
+2023-05-23,Miami Heat,Boston Celtics,7879af118e2a7062c34250ec0ab8bf4d,fanduel,-120,102,Boston Celtics
+2023-05-23,Miami Heat,Boston Celtics,7879af118e2a7062c34250ec0ab8bf4d,pinnacle,-114,103,Boston Celtics
+2023-05-23,Miami Heat,Boston Celtics,7879af118e2a7062c34250ec0ab8bf4d,draftkings,-120,100,Boston Celtics
+2023-05-23,Miami Heat,Boston Celtics,7879af118e2a7062c34250ec0ab8bf4d,betmgm,-130,105,Boston Celtics
+2023-05-23,Miami Heat,Boston Celtics,7879af118e2a7062c34250ec0ab8bf4d,barstool,-121,104,Boston Celtics
+2023-05-25,Boston Celtics,Miami Heat,45e3969612cff82621edf16c08f8b260,fanduel,-295,240,Boston Celtics
+2023-05-25,Boston Celtics,Miami Heat,45e3969612cff82621edf16c08f8b260,pinnacle,-285,246,Boston Celtics
+2023-05-25,Boston Celtics,Miami Heat,45e3969612cff82621edf16c08f8b260,draftkings,-305,255,Boston Celtics
+2023-05-25,Boston Celtics,Miami Heat,45e3969612cff82621edf16c08f8b260,betmgm,-300,240,Boston Celtics
+2023-05-25,Boston Celtics,Miami Heat,45e3969612cff82621edf16c08f8b260,barstool,-305,250,Boston Celtics
+2023-05-27,Miami Heat,Boston Celtics,2908701daae3fb01b0f3c32d0ed6f261,fanduel,124,-146,Boston Celtics
+2023-05-27,Miami Heat,Boston Celtics,2908701daae3fb01b0f3c32d0ed6f261,pinnacle,127,-141,Boston Celtics
+2023-05-27,Miami Heat,Boston Celtics,2908701daae3fb01b0f3c32d0ed6f261,draftkings,120,-140,Boston Celtics
+2023-05-27,Miami Heat,Boston Celtics,2908701daae3fb01b0f3c32d0ed6f261,betmgm,125,-150,Boston Celtics
+2023-05-27,Miami Heat,Boston Celtics,2908701daae3fb01b0f3c32d0ed6f261,barstool,125,-148,Boston Celtics
+2023-05-29,Boston Celtics,Miami Heat,1bbbd27a37f4a98e300590c8b119e98b,fanduel,-300,245,Miami Heat
+2023-05-29,Boston Celtics,Miami Heat,1bbbd27a37f4a98e300590c8b119e98b,pinnacle,-161,142,Miami Heat
+2023-05-29,Boston Celtics,Miami Heat,1bbbd27a37f4a98e300590c8b119e98b,draftkings,-300,250,Miami Heat
+2023-05-29,Boston Celtics,Miami Heat,1bbbd27a37f4a98e300590c8b119e98b,betmgm,-300,240,Miami Heat
+2023-05-29,Boston Celtics,Miami Heat,1bbbd27a37f4a98e300590c8b119e98b,barstool,-315,260,Miami Heat
+2023-06-01,Denver Nuggets,Miami Heat,56aeef9d6a4333f33d8afa42bc96279c,fanduel,-370,295,Denver Nuggets
+2023-06-01,Denver Nuggets,Miami Heat,56aeef9d6a4333f33d8afa42bc96279c,pinnacle,-369,311,Denver Nuggets
+2023-06-01,Denver Nuggets,Miami Heat,56aeef9d6a4333f33d8afa42bc96279c,draftkings,-360,295,Denver Nuggets
+2023-06-01,Denver Nuggets,Miami Heat,56aeef9d6a4333f33d8afa42bc96279c,betmgm,-375,290,Denver Nuggets
+2023-06-01,Denver Nuggets,Miami Heat,56aeef9d6a4333f33d8afa42bc96279c,barstool,-360,290,Denver Nuggets
+2023-06-04,Denver Nuggets,Miami Heat,ddcb637826300c8d35576bbfb0a1cf97,fanduel,-370,295,Miami Heat
+2023-06-04,Denver Nuggets,Miami Heat,ddcb637826300c8d35576bbfb0a1cf97,pinnacle,-160,141,Miami Heat
+2023-06-04,Denver Nuggets,Miami Heat,ddcb637826300c8d35576bbfb0a1cf97,draftkings,-365,300,Miami Heat
+2023-06-04,Denver Nuggets,Miami Heat,ddcb637826300c8d35576bbfb0a1cf97,betmgm,-375,290,Miami Heat
+2023-06-04,Denver Nuggets,Miami Heat,ddcb637826300c8d35576bbfb0a1cf97,barstool,-360,290,Miami Heat
+2023-06-07,Miami Heat,Denver Nuggets,b06331b3f1e1c02cd8b4a0d1aacbaa61,fanduel,118,-138,Denver Nuggets
+2023-06-07,Miami Heat,Denver Nuggets,b06331b3f1e1c02cd8b4a0d1aacbaa61,pinnacle,123,-136,Denver Nuggets
+2023-06-07,Miami Heat,Denver Nuggets,b06331b3f1e1c02cd8b4a0d1aacbaa61,draftkings,120,-140,Denver Nuggets
+2023-06-07,Miami Heat,Denver Nuggets,b06331b3f1e1c02cd8b4a0d1aacbaa61,betmgm,120,-145,Denver Nuggets
+2023-06-07,Miami Heat,Denver Nuggets,b06331b3f1e1c02cd8b4a0d1aacbaa61,barstool,123,-141,Denver Nuggets
+2023-06-09,Miami Heat,Denver Nuggets,793acaf4c2e297b3b56be238442045c1,fanduel,136,-162,Denver Nuggets
+2023-06-09,Miami Heat,Denver Nuggets,793acaf4c2e297b3b56be238442045c1,pinnacle,115,-130,Denver Nuggets
+2023-06-09,Miami Heat,Denver Nuggets,793acaf4c2e297b3b56be238442045c1,draftkings,140,-165,Denver Nuggets
+2023-06-09,Miami Heat,Denver Nuggets,793acaf4c2e297b3b56be238442045c1,betmgm,140,-165,Denver Nuggets
+2023-06-09,Miami Heat,Denver Nuggets,793acaf4c2e297b3b56be238442045c1,barstool,138,-162,Denver Nuggets
+2023-06-12,Denver Nuggets,Miami Heat,e7141ac5396ea48686832d9d62210c48,fanduel,-360,290,Denver Nuggets
+2023-06-12,Denver Nuggets,Miami Heat,e7141ac5396ea48686832d9d62210c48,pinnacle,-352,298,Denver Nuggets
+2023-06-12,Denver Nuggets,Miami Heat,e7141ac5396ea48686832d9d62210c48,draftkings,-380,310,Denver Nuggets
+2023-06-12,Denver Nuggets,Miami Heat,e7141ac5396ea48686832d9d62210c48,betmgm,-375,300,Denver Nuggets
+2023-06-12,Denver Nuggets,Miami Heat,e7141ac5396ea48686832d9d62210c48,barstool,-385,310,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,fanduel,-220,184,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,pinnacle,-187,167,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,draftkings,-218,180,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,betmgm,-225,185,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,barstool,-215,165,Denver Nuggets
+2023-10-24,Denver Nuggets,Los Angeles Lakers,4622c02f9bd1df188631c86e04036049,betrivers,-215,175,Denver Nuggets
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,fanduel,-116,-102,Phoenix Suns
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,pinnacle,-106,-104,Phoenix Suns
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,draftkings,-112,-108,Phoenix Suns
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,betmgm,-115,-105,Phoenix Suns
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,barstool,-110,-110,Phoenix Suns
+2023-10-24,Golden State Warriors,Phoenix Suns,9b3130e607f80aa4912aa184e2f4eab3,betrivers,-114,-104,Phoenix Suns
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,fanduel,142,-168,Charlotte Hornets
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,pinnacle,145,-161,Charlotte Hornets
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,draftkings,142,-170,Charlotte Hornets
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,betmgm,140,-165,Charlotte Hornets
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,barstool,130,-165,Charlotte Hornets
+2023-10-25,Charlotte Hornets,Atlanta Hawks,4eec3d2ccf41b67f09948cb36fceee16,betrivers,130,-155,Charlotte Hornets
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,fanduel,-270,220,Indiana Pacers
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,pinnacle,-268,233,Indiana Pacers
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,draftkings,-270,220,Indiana Pacers
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,betmgm,-300,240,Indiana Pacers
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,barstool,-275,210,Indiana Pacers
+2023-10-25,Indiana Pacers,Washington Wizards,04ebbb84dbf8f85789639293d764e98c,betrivers,-286,235,Indiana Pacers
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,fanduel,138,-164,Boston Celtics
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,pinnacle,141,-157,Boston Celtics
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,draftkings,140,-166,Boston Celtics
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,betmgm,135,-160,Boston Celtics
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,barstool,130,-165,Boston Celtics
+2023-10-25,New York Knicks,Boston Celtics,fc4c2016a5ccbb267aa0d569b1a49283,betrivers,135,-159,Boston Celtics
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,fanduel,-172,144,Orlando Magic
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,pinnacle,-167,150,Orlando Magic
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,draftkings,-170,142,Orlando Magic
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,betmgm,-165,135,Orlando Magic
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,barstool,-175,135,Orlando Magic
+2023-10-25,Orlando Magic,Houston Rockets,bc223a7e24fbf5cb9c6eecd0f016f38d,betrivers,-167,140,Orlando Magic
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,fanduel,-102,-116,Cleveland Cavaliers
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,pinnacle,100,-111,Cleveland Cavaliers
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,draftkings,-105,-115,Cleveland Cavaliers
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,betmgm,-105,-115,Cleveland Cavaliers
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,barstool,-105,-115,Cleveland Cavaliers
+2023-10-25,Brooklyn Nets,Cleveland Cavaliers,9df5a18ec404f6abe1632c9244f4a5d4,betrivers,-105,-114,Cleveland Cavaliers
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,fanduel,-420,330,Miami Heat
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,pinnacle,-412,342,Miami Heat
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,draftkings,-425,330,Miami Heat
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,betmgm,-450,333,Miami Heat
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,barstool,-425,290,Miami Heat
+2023-10-25,Miami Heat,Detroit Pistons,e144f29faba3f74fa2cfcff3a453c9f5,betrivers,-420,325,Miami Heat
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,fanduel,100,-118,Toronto Raptors
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,pinnacle,-104,-106,Toronto Raptors
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,draftkings,-105,-115,Toronto Raptors
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,betmgm,100,-120,Toronto Raptors
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,barstool,-105,-115,Toronto Raptors
+2023-10-25,Toronto Raptors,Minnesota Timberwolves,2ac182b5f3deb3427fff7b20ef6923a7,betrivers,-103,-115,Toronto Raptors
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,fanduel,-108,-108,Oklahoma City Thunder
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,pinnacle,-107,-103,Oklahoma City Thunder
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,draftkings,-112,-108,Oklahoma City Thunder
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,betmgm,-110,-110,Oklahoma City Thunder
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,barstool,-110,-110,Oklahoma City Thunder
+2023-10-25,Chicago Bulls,Oklahoma City Thunder,9a246f4d94b4e81172c11e29f73c061b,betrivers,-110,-107,Oklahoma City Thunder
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,fanduel,-108,-108,New Orleans Pelicans
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,pinnacle,100,-111,New Orleans Pelicans
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,draftkings,-105,-115,New Orleans Pelicans
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,betmgm,-110,-110,New Orleans Pelicans
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,barstool,-110,-110,New Orleans Pelicans
+2023-10-25,Memphis Grizzlies,New Orleans Pelicans,e7aa4c6ee075887eac8a07785a9f81db,betrivers,-109,-108,New Orleans Pelicans
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,fanduel,106,-124,Sacramento Kings
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,pinnacle,109,-120,Sacramento Kings
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,draftkings,105,-125,Sacramento Kings
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,betmgm,105,-125,Sacramento Kings
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,barstool,100,-125,Sacramento Kings
+2023-10-25,Utah Jazz,Sacramento Kings,3da05abaf29cf6c907253180fca9b256,betrivers,104,-122,Sacramento Kings
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,fanduel,146,-174,Dallas Mavericks
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,pinnacle,144,-160,Dallas Mavericks
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,draftkings,136,-162,Dallas Mavericks
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,betmgm,140,-165,Dallas Mavericks
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,barstool,140,-180,Dallas Mavericks
+2023-10-25,San Antonio Spurs,Dallas Mavericks,5bb0e95012a4c67ec9eb95fedb933e6a,betrivers,145,-175,Dallas Mavericks
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,fanduel,-405,320,LA Clippers
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,pinnacle,-394,329,LA Clippers
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,draftkings,-425,330,LA Clippers
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,betmgm,-375,300,LA Clippers
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,barstool,-425,290,LA Clippers
+2023-10-25,LA Clippers,Portland Trail Blazers,14b35b5784ae5cbadba6824cb6fcee98,betrivers,-400,310,LA Clippers
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,fanduel,-255,210,Milwaukee Bucks
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,pinnacle,-233,205,Milwaukee Bucks
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,draftkings,-238,195,Milwaukee Bucks
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,betmgm,-250,195,Milwaukee Bucks
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,barstool,-250,190,Milwaukee Bucks
+2023-10-26,Milwaukee Bucks,Philadelphia 76ers,1eb9915d586c87719ec6934863667a14,betrivers,-245,200,Milwaukee Bucks
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,fanduel,-220,184,Los Angeles Lakers
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,pinnacle,-202,180,Los Angeles Lakers
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,draftkings,-218,180,Los Angeles Lakers
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,betmgm,-225,180,Los Angeles Lakers
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,barstool,-215,165,Los Angeles Lakers
+2023-10-26,Los Angeles Lakers,Phoenix Suns,8a673a488573ce37a3bdd7f0c1fd5d3a,betrivers,-220,180,Los Angeles Lakers
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,fanduel,-172,144,Detroit Pistons
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,pinnacle,-157,141,Detroit Pistons
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,draftkings,-166,140,Detroit Pistons
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,betmgm,-165,135,Detroit Pistons
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,barstool,-165,130,Detroit Pistons
+2023-10-27,Charlotte Hornets,Detroit Pistons,c8872ae6d185dc314178da88dcf254d5,betrivers,-180,150,Detroit Pistons
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,fanduel,180,-215,Denver Nuggets
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,pinnacle,174,-195,Denver Nuggets
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,draftkings,170,-205,Denver Nuggets
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,betmgm,170,-210,Denver Nuggets
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,barstool,165,-215,Denver Nuggets
+2023-10-27,Memphis Grizzlies,Denver Nuggets,14a8cbe914ca50ec6301efbb2a09a906,betrivers,175,-215,Denver Nuggets
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,fanduel,-118,100,New York Knicks
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,pinnacle,-118,107,New York Knicks
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,draftkings,-120,100,New York Knicks
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,betmgm,-130,105,New York Knicks
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,barstool,-120,100,New York Knicks
+2023-10-27,Atlanta Hawks,New York Knicks,4741f49b87ab73c0a5add62a4f48f992,betrivers,-118,100,New York Knicks
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,fanduel,-335,270,Boston Celtics
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,pinnacle,-320,274,Boston Celtics
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,draftkings,-310,250,Boston Celtics
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,betmgm,-300,240,Boston Celtics
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,barstool,-325,240,Boston Celtics
+2023-10-27,Boston Celtics,Miami Heat,2837480dec215a9c39bcc7a8873280e2,betrivers,-335,265,Boston Celtics
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,fanduel,-158,134,Oklahoma City Thunder
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,pinnacle,-153,138,Oklahoma City Thunder
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,draftkings,-155,130,Oklahoma City Thunder
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,betmgm,-155,125,Oklahoma City Thunder
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,barstool,-160,130,Oklahoma City Thunder
+2023-10-27,Cleveland Cavaliers,Oklahoma City Thunder,0c6162d6c90f9fc161fb06ac0ad46e38,betrivers,-157,133,Oklahoma City Thunder
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,fanduel,-126,108,Chicago Bulls
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,pinnacle,-134,121,Chicago Bulls
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,draftkings,-130,110,Chicago Bulls
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,betmgm,-135,110,Chicago Bulls
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,barstool,-130,105,Chicago Bulls
+2023-10-27,Chicago Bulls,Toronto Raptors,29ea738c1de18c8f28c09966bb267752,betrivers,-129,108,Chicago Bulls
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,fanduel,-136,116,San Antonio Spurs
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,pinnacle,-131,118,San Antonio Spurs
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,draftkings,-135,114,San Antonio Spurs
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,betmgm,-120,100,San Antonio Spurs
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,barstool,-135,110,San Antonio Spurs
+2023-10-27,San Antonio Spurs,Houston Rockets,b648f3bec470d6c24c43eab0902cf083,betrivers,-141,118,San Antonio Spurs
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,fanduel,-220,184,Dallas Mavericks
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,pinnacle,-226,199,Dallas Mavericks
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,draftkings,-230,190,Dallas Mavericks
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,betmgm,-250,190,Dallas Mavericks
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,barstool,-250,190,Dallas Mavericks
+2023-10-27,Dallas Mavericks,Brooklyn Nets,5e902239ce38cccede66c182ced2b9f2,betrivers,-240,195,Dallas Mavericks
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,fanduel,144,-172,Utah Jazz
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,pinnacle,146,-163,Utah Jazz
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,draftkings,136,-162,Utah Jazz
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,betmgm,125,-155,Utah Jazz
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,barstool,135,-175,Utah Jazz
+2023-10-27,Utah Jazz,LA Clippers,36cc02aebbd57205da4ee51be27f1424,betrivers,135,-165,Utah Jazz
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,fanduel,120,-142,Orlando Magic
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,pinnacle,128,-142,Orlando Magic
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,draftkings,124,-148,Orlando Magic
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,betmgm,110,-135,Orlando Magic
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,barstool,120,-150,Orlando Magic
+2023-10-27,Portland Trail Blazers,Orlando Magic,bb94e98ccf73f1a630cacf594ac232d2,betrivers,128,-152,Orlando Magic
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,fanduel,-144,122,Golden State Warriors
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,pinnacle,-140,127,Golden State Warriors
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,draftkings,-148,124,Golden State Warriors
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,betmgm,-145,120,Golden State Warriors
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,barstool,-140,115,Golden State Warriors
+2023-10-27,Sacramento Kings,Golden State Warriors,f91f9d07281365808aa62ea443998bd9,betrivers,-159,133,Golden State Warriors
+2023-10-28,Detroit Pistons,Chicago Bulls,0d19f0f68bb3de882ab3fc019e1618aa,fanduel,-102,-116,Detroit Pistons
+2023-10-28,Detroit Pistons,Chicago Bulls,0d19f0f68bb3de882ab3fc019e1618aa,pinnacle,102,-112,Detroit Pistons
+2023-10-28,Detroit Pistons,Chicago Bulls,0d19f0f68bb3de882ab3fc019e1618aa,draftkings,-102,-118,Detroit Pistons
+2023-10-28,Detroit Pistons,Chicago Bulls,0d19f0f68bb3de882ab3fc019e1618aa,barstool,100,-120,Detroit Pistons
+2023-10-28,Detroit Pistons,Chicago Bulls,0d19f0f68bb3de882ab3fc019e1618aa,betrivers,102,-121,Detroit Pistons
+2023-10-28,Washington Wizards,Memphis Grizzlies,23c5a2389ecae108083e3f2bb1d40a04,fanduel,106,-124,Washington Wizards
+2023-10-28,Washington Wizards,Memphis Grizzlies,23c5a2389ecae108083e3f2bb1d40a04,pinnacle,111,-123,Washington Wizards
+2023-10-28,Washington Wizards,Memphis Grizzlies,23c5a2389ecae108083e3f2bb1d40a04,draftkings,105,-125,Washington Wizards
+2023-10-28,Washington Wizards,Memphis Grizzlies,23c5a2389ecae108083e3f2bb1d40a04,barstool,100,-125,Washington Wizards
+2023-10-28,Washington Wizards,Memphis Grizzlies,23c5a2389ecae108083e3f2bb1d40a04,betrivers,104,-129,Washington Wizards
+2023-10-28,New Orleans Pelicans,New York Knicks,d24ff2523b81c9b7e662e2e45b8b2a9b,fanduel,-156,132,New Orleans Pelicans
+2023-10-28,New Orleans Pelicans,New York Knicks,d24ff2523b81c9b7e662e2e45b8b2a9b,pinnacle,-154,139,New Orleans Pelicans
+2023-10-28,New Orleans Pelicans,New York Knicks,d24ff2523b81c9b7e662e2e45b8b2a9b,draftkings,-162,136,New Orleans Pelicans
+2023-10-28,New Orleans Pelicans,New York Knicks,d24ff2523b81c9b7e662e2e45b8b2a9b,barstool,-165,130,New Orleans Pelicans
+2023-10-28,New Orleans Pelicans,New York Knicks,d24ff2523b81c9b7e662e2e45b8b2a9b,betrivers,-165,138,New Orleans Pelicans
+2023-10-28,Cleveland Cavaliers,Indiana Pacers,31625d1b9a2b0e2e217ca8a3838cb6ed,fanduel,-194,162,Indiana Pacers
+2023-10-28,Cleveland Cavaliers,Indiana Pacers,31625d1b9a2b0e2e217ca8a3838cb6ed,draftkings,-162,136,Indiana Pacers
+2023-10-28,Cleveland Cavaliers,Indiana Pacers,31625d1b9a2b0e2e217ca8a3838cb6ed,barstool,-175,135,Indiana Pacers
+2023-10-28,Cleveland Cavaliers,Indiana Pacers,31625d1b9a2b0e2e217ca8a3838cb6ed,betrivers,-180,145,Indiana Pacers
+2023-10-28,Toronto Raptors,Philadelphia 76ers,fd82589c1de3cfd02bea4dc65a3cb4d4,fanduel,146,-174,Philadelphia 76ers
+2023-10-28,Toronto Raptors,Philadelphia 76ers,fd82589c1de3cfd02bea4dc65a3cb4d4,pinnacle,149,-166,Philadelphia 76ers
+2023-10-28,Toronto Raptors,Philadelphia 76ers,fd82589c1de3cfd02bea4dc65a3cb4d4,draftkings,145,-175,Philadelphia 76ers
+2023-10-28,Toronto Raptors,Philadelphia 76ers,fd82589c1de3cfd02bea4dc65a3cb4d4,barstool,140,-180,Philadelphia 76ers
+2023-10-28,Toronto Raptors,Philadelphia 76ers,fd82589c1de3cfd02bea4dc65a3cb4d4,betrivers,150,-180,Philadelphia 76ers
+2023-10-28,Minnesota Timberwolves,Miami Heat,9f8490f5a9773532f4cfad9d3c800d4d,fanduel,-190,160,Minnesota Timberwolves
+2023-10-28,Minnesota Timberwolves,Miami Heat,9f8490f5a9773532f4cfad9d3c800d4d,pinnacle,-182,163,Minnesota Timberwolves
+2023-10-28,Minnesota Timberwolves,Miami Heat,9f8490f5a9773532f4cfad9d3c800d4d,draftkings,-192,160,Minnesota Timberwolves
+2023-10-28,Minnesota Timberwolves,Miami Heat,9f8490f5a9773532f4cfad9d3c800d4d,barstool,-190,150,Minnesota Timberwolves
+2023-10-28,Minnesota Timberwolves,Miami Heat,9f8490f5a9773532f4cfad9d3c800d4d,betrivers,-195,163,Minnesota Timberwolves
+2023-10-28,Phoenix Suns,Utah Jazz,0da0b1b53777903462a23e598a1bf236,fanduel,-235,194,Phoenix Suns
+2023-10-28,Phoenix Suns,Utah Jazz,0da0b1b53777903462a23e598a1bf236,draftkings,-230,190,Phoenix Suns
+2023-10-28,Phoenix Suns,Utah Jazz,0da0b1b53777903462a23e598a1bf236,barstool,-240,180,Phoenix Suns
+2023-10-28,Phoenix Suns,Utah Jazz,0da0b1b53777903462a23e598a1bf236,betrivers,-240,190,Phoenix Suns
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,de25fc68b2ad92466dbfde1413d36bc4,fanduel,134,-158,Denver Nuggets
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,de25fc68b2ad92466dbfde1413d36bc4,pinnacle,132,-147,Denver Nuggets
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,de25fc68b2ad92466dbfde1413d36bc4,draftkings,130,-155,Denver Nuggets
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,de25fc68b2ad92466dbfde1413d36bc4,barstool,130,-160,Denver Nuggets
+2023-10-29,Oklahoma City Thunder,Denver Nuggets,de25fc68b2ad92466dbfde1413d36bc4,betrivers,135,-159,Denver Nuggets
+2023-10-29,Houston Rockets,Golden State Warriors,9c9c28844987db07b9f3a96f5265bb8a,fanduel,152,-180,Golden State Warriors
+2023-10-29,Houston Rockets,Golden State Warriors,9c9c28844987db07b9f3a96f5265bb8a,draftkings,154,-185,Golden State Warriors
+2023-10-29,Houston Rockets,Golden State Warriors,9c9c28844987db07b9f3a96f5265bb8a,barstool,140,-180,Golden State Warriors
+2023-10-29,Houston Rockets,Golden State Warriors,9c9c28844987db07b9f3a96f5265bb8a,betrivers,155,-190,Golden State Warriors
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,b9d80173049b2a752e52672b1c3d46e7,fanduel,-300,245,Atlanta Hawks
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,b9d80173049b2a752e52672b1c3d46e7,pinnacle,-270,235,Atlanta Hawks
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,b9d80173049b2a752e52672b1c3d46e7,draftkings,-278,225,Atlanta Hawks
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,b9d80173049b2a752e52672b1c3d46e7,barstool,-285,220,Atlanta Hawks
+2023-10-29,Milwaukee Bucks,Atlanta Hawks,b9d80173049b2a752e52672b1c3d46e7,betrivers,-315,255,Atlanta Hawks
+2023-10-29,Philadelphia 76ers,Portland Trail Blazers,ead80eec2120f49e3232a704112c319a,fanduel,-450,350,Philadelphia 76ers
+2023-10-29,Philadelphia 76ers,Portland Trail Blazers,ead80eec2120f49e3232a704112c319a,draftkings,-485,370,Philadelphia 76ers
+2023-10-29,Philadelphia 76ers,Portland Trail Blazers,ead80eec2120f49e3232a704112c319a,barstool,-475,320,Philadelphia 76ers
+2023-10-29,Philadelphia 76ers,Portland Trail Blazers,ead80eec2120f49e3232a704112c319a,betrivers,-480,370,Philadelphia 76ers
+2023-10-29,LA Clippers,San Antonio Spurs,d996c6412e7179682ca8ef09b750f638,fanduel,-400,315,LA Clippers
+2023-10-29,LA Clippers,San Antonio Spurs,d996c6412e7179682ca8ef09b750f638,pinnacle,-375,315,LA Clippers
+2023-10-29,LA Clippers,San Antonio Spurs,d996c6412e7179682ca8ef09b750f638,draftkings,-375,295,LA Clippers
+2023-10-29,LA Clippers,San Antonio Spurs,d996c6412e7179682ca8ef09b750f638,barstool,-425,290,LA Clippers
+2023-10-29,LA Clippers,San Antonio Spurs,d996c6412e7179682ca8ef09b750f638,betrivers,-400,310,LA Clippers
+2023-10-29,Sacramento Kings,Los Angeles Lakers,105fbe767ce5d1f9a97fe653861c2da4,fanduel,-146,124,Sacramento Kings
+2023-10-29,Sacramento Kings,Los Angeles Lakers,105fbe767ce5d1f9a97fe653861c2da4,pinnacle,-139,126,Sacramento Kings
+2023-10-29,Sacramento Kings,Los Angeles Lakers,105fbe767ce5d1f9a97fe653861c2da4,draftkings,-148,124,Sacramento Kings
+2023-10-29,Sacramento Kings,Los Angeles Lakers,105fbe767ce5d1f9a97fe653861c2da4,barstool,-155,125,Sacramento Kings
+2023-10-29,Sacramento Kings,Los Angeles Lakers,105fbe767ce5d1f9a97fe653861c2da4,betrivers,-152,125,Sacramento Kings
+2023-10-30,Charlotte Hornets,Brooklyn Nets,8e89f1c32afb2db5b73e43a3c5ba0f5a,fanduel,104,-122,Brooklyn Nets
+2023-10-30,Charlotte Hornets,Brooklyn Nets,8e89f1c32afb2db5b73e43a3c5ba0f5a,pinnacle,105,-116,Brooklyn Nets
+2023-10-30,Charlotte Hornets,Brooklyn Nets,8e89f1c32afb2db5b73e43a3c5ba0f5a,draftkings,-105,-115,Brooklyn Nets
+2023-10-30,Charlotte Hornets,Brooklyn Nets,8e89f1c32afb2db5b73e43a3c5ba0f5a,barstool,100,-125,Brooklyn Nets
+2023-10-30,Charlotte Hornets,Brooklyn Nets,8e89f1c32afb2db5b73e43a3c5ba0f5a,betrivers,-104,-114,Brooklyn Nets
+2023-10-30,Indiana Pacers,Chicago Bulls,5ede552cdf581985eec76466a053c9d8,fanduel,-152,128,Chicago Bulls
+2023-10-30,Indiana Pacers,Chicago Bulls,5ede552cdf581985eec76466a053c9d8,pinnacle,-159,143,Chicago Bulls
+2023-10-30,Indiana Pacers,Chicago Bulls,5ede552cdf581985eec76466a053c9d8,draftkings,-166,140,Chicago Bulls
+2023-10-30,Indiana Pacers,Chicago Bulls,5ede552cdf581985eec76466a053c9d8,barstool,-165,130,Chicago Bulls
+2023-10-30,Indiana Pacers,Chicago Bulls,5ede552cdf581985eec76466a053c9d8,betrivers,-157,133,Chicago Bulls
+2023-10-30,Washington Wizards,Boston Celtics,f5a0f14b0d5578bf940e20c19c2af45b,fanduel,390,-510,Boston Celtics
+2023-10-30,Washington Wizards,Boston Celtics,f5a0f14b0d5578bf940e20c19c2af45b,pinnacle,375,-459,Boston Celtics
+2023-10-30,Washington Wizards,Boston Celtics,f5a0f14b0d5578bf940e20c19c2af45b,draftkings,340,-485,Boston Celtics
+2023-10-30,Washington Wizards,Boston Celtics,f5a0f14b0d5578bf940e20c19c2af45b,barstool,340,-500,Boston Celtics
+2023-10-30,Washington Wizards,Boston Celtics,f5a0f14b0d5578bf940e20c19c2af45b,betrivers,360,-480,Boston Celtics
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,680a2a2643d5b327f2858916572a8de7,fanduel,106,-124,Atlanta Hawks
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,680a2a2643d5b327f2858916572a8de7,draftkings,110,-130,Atlanta Hawks
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,680a2a2643d5b327f2858916572a8de7,barstool,105,-130,Atlanta Hawks
+2023-10-30,Atlanta Hawks,Minnesota Timberwolves,680a2a2643d5b327f2858916572a8de7,betrivers,108,-129,Atlanta Hawks
+2023-10-30,Toronto Raptors,Portland Trail Blazers,2ac4831a2541b259c7cb6ab7ac090f26,fanduel,-310,250,Portland Trail Blazers
+2023-10-30,Toronto Raptors,Portland Trail Blazers,2ac4831a2541b259c7cb6ab7ac090f26,pinnacle,-275,239,Portland Trail Blazers
+2023-10-30,Toronto Raptors,Portland Trail Blazers,2ac4831a2541b259c7cb6ab7ac090f26,draftkings,-305,245,Portland Trail Blazers
+2023-10-30,Toronto Raptors,Portland Trail Blazers,2ac4831a2541b259c7cb6ab7ac090f26,barstool,-300,225,Portland Trail Blazers
+2023-10-30,Toronto Raptors,Portland Trail Blazers,2ac4831a2541b259c7cb6ab7ac090f26,betrivers,-305,245,Portland Trail Blazers
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,eb3343cb795e0862cb2e134dcc88a74f,fanduel,120,-142,Dallas Mavericks
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,eb3343cb795e0862cb2e134dcc88a74f,pinnacle,126,-139,Dallas Mavericks
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,eb3343cb795e0862cb2e134dcc88a74f,draftkings,120,-142,Dallas Mavericks
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,eb3343cb795e0862cb2e134dcc88a74f,barstool,115,-140,Dallas Mavericks
+2023-10-30,Memphis Grizzlies,Dallas Mavericks,eb3343cb795e0862cb2e134dcc88a74f,betrivers,115,-137,Dallas Mavericks
+2023-10-30,Milwaukee Bucks,Miami Heat,08900ae4a0e8a2bc2f74ccaaee59d44a,fanduel,-205,172,Milwaukee Bucks
+2023-10-30,Milwaukee Bucks,Miami Heat,08900ae4a0e8a2bc2f74ccaaee59d44a,draftkings,-205,170,Milwaukee Bucks
+2023-10-30,Milwaukee Bucks,Miami Heat,08900ae4a0e8a2bc2f74ccaaee59d44a,barstool,-215,165,Milwaukee Bucks
+2023-10-30,Milwaukee Bucks,Miami Heat,08900ae4a0e8a2bc2f74ccaaee59d44a,betrivers,-205,170,Milwaukee Bucks
+2023-10-30,New Orleans Pelicans,Golden State Warriors,e5fba53adc8b2ebcc46cc653d2f35897,fanduel,-158,134,Golden State Warriors
+2023-10-30,New Orleans Pelicans,Golden State Warriors,e5fba53adc8b2ebcc46cc653d2f35897,draftkings,-135,114,Golden State Warriors
+2023-10-30,New Orleans Pelicans,Golden State Warriors,e5fba53adc8b2ebcc46cc653d2f35897,barstool,-155,125,Golden State Warriors
+2023-10-30,New Orleans Pelicans,Golden State Warriors,e5fba53adc8b2ebcc46cc653d2f35897,betrivers,-150,125,Golden State Warriors
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,cbb6a6adbb94243ce5e51e1c603f860e,fanduel,-220,184,Oklahoma City Thunder
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,cbb6a6adbb94243ce5e51e1c603f860e,pinnacle,-206,183,Oklahoma City Thunder
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,cbb6a6adbb94243ce5e51e1c603f860e,draftkings,-218,180,Oklahoma City Thunder
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,cbb6a6adbb94243ce5e51e1c603f860e,barstool,-225,175,Oklahoma City Thunder
+2023-10-30,Oklahoma City Thunder,Detroit Pistons,cbb6a6adbb94243ce5e51e1c603f860e,betrivers,-225,185,Oklahoma City Thunder
+2023-10-30,Denver Nuggets,Utah Jazz,4661c2000f39cd09bda400c94bfc7a8b,fanduel,-330,265,Denver Nuggets
+2023-10-30,Denver Nuggets,Utah Jazz,4661c2000f39cd09bda400c94bfc7a8b,draftkings,-340,270,Denver Nuggets
+2023-10-30,Denver Nuggets,Utah Jazz,4661c2000f39cd09bda400c94bfc7a8b,barstool,-350,250,Denver Nuggets
+2023-10-30,Denver Nuggets,Utah Jazz,4661c2000f39cd09bda400c94bfc7a8b,betrivers,-315,255,Denver Nuggets
+2023-10-30,Los Angeles Lakers,Orlando Magic,484b9242ca4d60c28bec1cd5660c42ec,fanduel,-144,122,Los Angeles Lakers
+2023-10-30,Los Angeles Lakers,Orlando Magic,484b9242ca4d60c28bec1cd5660c42ec,draftkings,-155,130,Los Angeles Lakers
+2023-10-30,Los Angeles Lakers,Orlando Magic,484b9242ca4d60c28bec1cd5660c42ec,barstool,-150,120,Los Angeles Lakers
+2023-10-30,Los Angeles Lakers,Orlando Magic,484b9242ca4d60c28bec1cd5660c42ec,betrivers,-165,125,Los Angeles Lakers
+2023-10-31,Cleveland Cavaliers,New York Knicks,602e24ab02589084003de5de7fb7585c,fanduel,130,-154,New York Knicks
+2023-10-31,Cleveland Cavaliers,New York Knicks,602e24ab02589084003de5de7fb7585c,draftkings,124,-148,New York Knicks
+2023-10-31,Cleveland Cavaliers,New York Knicks,602e24ab02589084003de5de7fb7585c,barstool,125,-155,New York Knicks
+2023-10-31,Cleveland Cavaliers,New York Knicks,602e24ab02589084003de5de7fb7585c,betrivers,125,-152,New York Knicks
+2023-10-31,Phoenix Suns,San Antonio Spurs,cdd8b92c395755fd28308d8b9a748b1d,fanduel,-295,240,San Antonio Spurs
+2023-10-31,Phoenix Suns,San Antonio Spurs,cdd8b92c395755fd28308d8b9a748b1d,pinnacle,-282,244,San Antonio Spurs
+2023-10-31,Phoenix Suns,San Antonio Spurs,cdd8b92c395755fd28308d8b9a748b1d,draftkings,-310,250,San Antonio Spurs
+2023-10-31,Phoenix Suns,San Antonio Spurs,cdd8b92c395755fd28308d8b9a748b1d,barstool,-300,225,San Antonio Spurs
+2023-10-31,Phoenix Suns,San Antonio Spurs,cdd8b92c395755fd28308d8b9a748b1d,betrivers,-360,270,San Antonio Spurs
+2023-10-31,LA Clippers,Orlando Magic,061741f2e57ecc1bd8e03a1a1311f15b,fanduel,-295,240,LA Clippers
+2023-10-31,LA Clippers,Orlando Magic,061741f2e57ecc1bd8e03a1a1311f15b,draftkings,-298,240,LA Clippers
+2023-10-31,LA Clippers,Orlando Magic,061741f2e57ecc1bd8e03a1a1311f15b,barstool,-325,240,LA Clippers
+2023-10-31,LA Clippers,Orlando Magic,061741f2e57ecc1bd8e03a1a1311f15b,betrivers,-360,270,LA Clippers
+2023-11-01,Detroit Pistons,Portland Trail Blazers,776a9be0ce8679c19c5c172a69e800c3,fanduel,-172,144,Portland Trail Blazers
+2023-11-01,Detroit Pistons,Portland Trail Blazers,776a9be0ce8679c19c5c172a69e800c3,pinnacle,-166,149,Portland Trail Blazers
+2023-11-01,Detroit Pistons,Portland Trail Blazers,776a9be0ce8679c19c5c172a69e800c3,draftkings,-166,140,Portland Trail Blazers
+2023-11-01,Detroit Pistons,Portland Trail Blazers,776a9be0ce8679c19c5c172a69e800c3,barstool,-165,130,Portland Trail Blazers
+2023-11-01,Detroit Pistons,Portland Trail Blazers,776a9be0ce8679c19c5c172a69e800c3,betrivers,-167,140,Portland Trail Blazers
+2023-11-01,Toronto Raptors,Milwaukee Bucks,ca377ad145035288690b14dff2536b0b,fanduel,172,-205,Toronto Raptors
+2023-11-01,Toronto Raptors,Milwaukee Bucks,ca377ad145035288690b14dff2536b0b,pinnacle,180,-203,Toronto Raptors
+2023-11-01,Toronto Raptors,Milwaukee Bucks,ca377ad145035288690b14dff2536b0b,draftkings,170,-205,Toronto Raptors
+2023-11-01,Toronto Raptors,Milwaukee Bucks,ca377ad145035288690b14dff2536b0b,barstool,165,-215,Toronto Raptors
+2023-11-01,Toronto Raptors,Milwaukee Bucks,ca377ad145035288690b14dff2536b0b,betrivers,180,-220,Toronto Raptors
+2023-11-01,Atlanta Hawks,Washington Wizards,4958815658f7ecee2cc2cafe16cea0d9,fanduel,-320,260,Atlanta Hawks
+2023-11-01,Atlanta Hawks,Washington Wizards,4958815658f7ecee2cc2cafe16cea0d9,pinnacle,-305,262,Atlanta Hawks
+2023-11-01,Atlanta Hawks,Washington Wizards,4958815658f7ecee2cc2cafe16cea0d9,draftkings,-310,250,Atlanta Hawks
+2023-11-01,Atlanta Hawks,Washington Wizards,4958815658f7ecee2cc2cafe16cea0d9,barstool,-325,240,Atlanta Hawks
+2023-11-01,Atlanta Hawks,Washington Wizards,4958815658f7ecee2cc2cafe16cea0d9,betrivers,-295,240,Atlanta Hawks
+2023-11-01,Boston Celtics,Indiana Pacers,372d21f96f120b5be3befdd804e8b7c3,fanduel,-650,480,Boston Celtics
+2023-11-01,Boston Celtics,Indiana Pacers,372d21f96f120b5be3befdd804e8b7c3,pinnacle,-612,480,Boston Celtics
+2023-11-01,Boston Celtics,Indiana Pacers,372d21f96f120b5be3befdd804e8b7c3,draftkings,-625,455,Boston Celtics
+2023-11-01,Boston Celtics,Indiana Pacers,372d21f96f120b5be3befdd804e8b7c3,barstool,-650,425,Boston Celtics
+2023-11-01,Boston Celtics,Indiana Pacers,372d21f96f120b5be3befdd804e8b7c3,betrivers,-625,460,Boston Celtics
+2023-11-01,Miami Heat,Brooklyn Nets,e1ac6a8f4b1a9a7438eba912a7404d81,fanduel,-245,200,Brooklyn Nets
+2023-11-01,Miami Heat,Brooklyn Nets,e1ac6a8f4b1a9a7438eba912a7404d81,pinnacle,-230,203,Brooklyn Nets
+2023-11-01,Miami Heat,Brooklyn Nets,e1ac6a8f4b1a9a7438eba912a7404d81,draftkings,-238,195,Brooklyn Nets
+2023-11-01,Miami Heat,Brooklyn Nets,e1ac6a8f4b1a9a7438eba912a7404d81,barstool,-250,190,Brooklyn Nets
+2023-11-01,Miami Heat,Brooklyn Nets,e1ac6a8f4b1a9a7438eba912a7404d81,betrivers,-245,200,Brooklyn Nets
+2023-11-01,New York Knicks,Cleveland Cavaliers,33efad5a2419a4fa92e8688fc0c05374,fanduel,-275,225,Cleveland Cavaliers
+2023-11-01,New York Knicks,Cleveland Cavaliers,33efad5a2419a4fa92e8688fc0c05374,draftkings,-278,225,Cleveland Cavaliers
+2023-11-01,New York Knicks,Cleveland Cavaliers,33efad5a2419a4fa92e8688fc0c05374,barstool,-275,210,Cleveland Cavaliers
+2023-11-01,New York Knicks,Cleveland Cavaliers,33efad5a2419a4fa92e8688fc0c05374,betrivers,-265,215,Cleveland Cavaliers
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,35965d479474c534b1f1970d5439cf32,fanduel,-162,136,New Orleans Pelicans
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,35965d479474c534b1f1970d5439cf32,pinnacle,-161,144,New Orleans Pelicans
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,35965d479474c534b1f1970d5439cf32,draftkings,-162,136,New Orleans Pelicans
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,35965d479474c534b1f1970d5439cf32,barstool,-160,130,New Orleans Pelicans
+2023-11-01,Oklahoma City Thunder,New Orleans Pelicans,35965d479474c534b1f1970d5439cf32,betrivers,-157,133,New Orleans Pelicans
+2023-11-01,Houston Rockets,Charlotte Hornets,2ef6c9e4dbfa5905f2498f58a2d3d2de,fanduel,-134,114,Houston Rockets
+2023-11-01,Houston Rockets,Charlotte Hornets,2ef6c9e4dbfa5905f2498f58a2d3d2de,pinnacle,-132,119,Houston Rockets
+2023-11-01,Houston Rockets,Charlotte Hornets,2ef6c9e4dbfa5905f2498f58a2d3d2de,draftkings,-135,114,Houston Rockets
+2023-11-01,Houston Rockets,Charlotte Hornets,2ef6c9e4dbfa5905f2498f58a2d3d2de,barstool,-140,115,Houston Rockets
+2023-11-01,Houston Rockets,Charlotte Hornets,2ef6c9e4dbfa5905f2498f58a2d3d2de,betrivers,-136,115,Houston Rockets
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,3ec25da0ab9e11e9099100783231b47d,fanduel,130,-154,Minnesota Timberwolves
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,3ec25da0ab9e11e9099100783231b47d,pinnacle,132,-147,Minnesota Timberwolves
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,3ec25da0ab9e11e9099100783231b47d,draftkings,124,-148,Minnesota Timberwolves
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,3ec25da0ab9e11e9099100783231b47d,barstool,120,-150,Minnesota Timberwolves
+2023-11-01,Minnesota Timberwolves,Denver Nuggets,3ec25da0ab9e11e9099100783231b47d,betrivers,123,-148,Minnesota Timberwolves
+2023-11-01,Dallas Mavericks,Chicago Bulls,6578130e9ff32752733d9e2ffa33e3e3,fanduel,-205,172,Dallas Mavericks
+2023-11-01,Dallas Mavericks,Chicago Bulls,6578130e9ff32752733d9e2ffa33e3e3,draftkings,-205,170,Dallas Mavericks
+2023-11-01,Dallas Mavericks,Chicago Bulls,6578130e9ff32752733d9e2ffa33e3e3,barstool,-200,155,Dallas Mavericks
+2023-11-01,Dallas Mavericks,Chicago Bulls,6578130e9ff32752733d9e2ffa33e3e3,betrivers,-215,175,Dallas Mavericks
+2023-11-01,Utah Jazz,Memphis Grizzlies,60212c14e2aef3b083ece75bddd1f30e,fanduel,-144,122,Utah Jazz
+2023-11-01,Utah Jazz,Memphis Grizzlies,60212c14e2aef3b083ece75bddd1f30e,pinnacle,-135,122,Utah Jazz
+2023-11-01,Utah Jazz,Memphis Grizzlies,60212c14e2aef3b083ece75bddd1f30e,draftkings,-142,120,Utah Jazz
+2023-11-01,Utah Jazz,Memphis Grizzlies,60212c14e2aef3b083ece75bddd1f30e,barstool,-150,120,Utah Jazz
+2023-11-01,Utah Jazz,Memphis Grizzlies,60212c14e2aef3b083ece75bddd1f30e,betrivers,-148,125,Utah Jazz
+2023-11-01,Golden State Warriors,Sacramento Kings,3bfb088f462639efe881210bc5034970,fanduel,-300,245,Golden State Warriors
+2023-11-01,Golden State Warriors,Sacramento Kings,3bfb088f462639efe881210bc5034970,pinnacle,-275,239,Golden State Warriors
+2023-11-01,Golden State Warriors,Sacramento Kings,3bfb088f462639efe881210bc5034970,draftkings,-285,230,Golden State Warriors
+2023-11-01,Golden State Warriors,Sacramento Kings,3bfb088f462639efe881210bc5034970,barstool,-285,220,Golden State Warriors
+2023-11-01,Golden State Warriors,Sacramento Kings,3bfb088f462639efe881210bc5034970,betrivers,-295,240,Golden State Warriors
+2023-11-01,Los Angeles Lakers,LA Clippers,b5b06c705e07ce18bec754960b3f904f,fanduel,-196,164,Los Angeles Lakers
+2023-11-01,Los Angeles Lakers,LA Clippers,b5b06c705e07ce18bec754960b3f904f,draftkings,-198,164,Los Angeles Lakers
+2023-11-01,Los Angeles Lakers,LA Clippers,b5b06c705e07ce18bec754960b3f904f,barstool,-200,155,Los Angeles Lakers
+2023-11-01,Los Angeles Lakers,LA Clippers,b5b06c705e07ce18bec754960b3f904f,betrivers,-190,160,Los Angeles Lakers
+2023-11-02,Philadelphia 76ers,Toronto Raptors,7219ef55a2f4464ae0eae37b7fc45c68,fanduel,-370,295,Philadelphia 76ers
+2023-11-02,Philadelphia 76ers,Toronto Raptors,7219ef55a2f4464ae0eae37b7fc45c68,draftkings,-360,285,Philadelphia 76ers
+2023-11-02,Philadelphia 76ers,Toronto Raptors,7219ef55a2f4464ae0eae37b7fc45c68,barstool,-350,250,Philadelphia 76ers
+2023-11-02,Philadelphia 76ers,Toronto Raptors,7219ef55a2f4464ae0eae37b7fc45c68,betrivers,-400,300,Philadelphia 76ers
+2023-11-02,New Orleans Pelicans,Detroit Pistons,560f8d2b749c9b9d825b0e0c3cb9e532,fanduel,-300,245,New Orleans Pelicans
+2023-11-02,New Orleans Pelicans,Detroit Pistons,560f8d2b749c9b9d825b0e0c3cb9e532,draftkings,-305,245,New Orleans Pelicans
+2023-11-02,New Orleans Pelicans,Detroit Pistons,560f8d2b749c9b9d825b0e0c3cb9e532,barstool,-285,220,New Orleans Pelicans
+2023-11-02,New Orleans Pelicans,Detroit Pistons,560f8d2b749c9b9d825b0e0c3cb9e532,betrivers,-335,255,New Orleans Pelicans
+2023-11-02,Utah Jazz,Orlando Magic,13b7b5c93b3174c484f52b6a447118ae,fanduel,-112,-104,Orlando Magic
+2023-11-02,Utah Jazz,Orlando Magic,13b7b5c93b3174c484f52b6a447118ae,draftkings,-105,-115,Orlando Magic
+2023-11-02,Utah Jazz,Orlando Magic,13b7b5c93b3174c484f52b6a447118ae,barstool,-110,-110,Orlando Magic
+2023-11-02,Utah Jazz,Orlando Magic,13b7b5c93b3174c484f52b6a447118ae,betrivers,-112,-106,Orlando Magic
+2023-11-02,Phoenix Suns,San Antonio Spurs,f50ed0298f67394a43530c5e70316fb9,fanduel,-310,250,San Antonio Spurs
+2023-11-02,Phoenix Suns,San Antonio Spurs,f50ed0298f67394a43530c5e70316fb9,draftkings,-310,245,San Antonio Spurs
+2023-11-02,Phoenix Suns,San Antonio Spurs,f50ed0298f67394a43530c5e70316fb9,barstool,-325,240,San Antonio Spurs
+2023-11-02,Phoenix Suns,San Antonio Spurs,f50ed0298f67394a43530c5e70316fb9,betrivers,-335,260,San Antonio Spurs
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,fanduel,120,-142,
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,pinnacle,116,-129,
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,draftkings,124,-148,
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,betmgm,120,-145,
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,barstool,125,-155,
+2023-11-03,Indiana Pacers,Cleveland Cavaliers,19fce4f5a9514711cf1bcbf001026cec,betrivers,125,-148,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,fanduel,-255,210,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,pinnacle,-248,217,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,draftkings,-250,205,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,betmgm,-250,200,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,barstool,-260,200,
+2023-11-03,Milwaukee Bucks,New York Knicks,42e2129f1bad86dbec4105a6e285d0e4,betrivers,-275,220,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,fanduel,-450,350,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,pinnacle,-398,332,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,draftkings,-440,340,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,betmgm,-450,333,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,barstool,-475,320,
+2023-11-03,Miami Heat,Washington Wizards,b8b6e638c99434498544366196057888,betrivers,-455,350,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,fanduel,-174,146,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,pinnacle,-171,154,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,draftkings,-185,154,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,betmgm,-190,155,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,barstool,-180,140,
+2023-11-03,Chicago Bulls,Brooklyn Nets,b38a130b1f7a1b1433b7c261f38cfc79,betrivers,-180,150,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,fanduel,184,-220,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,pinnacle,188,-212,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,draftkings,180,-218,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,betmgm,185,-225,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,barstool,165,-215,
+2023-11-03,Oklahoma City Thunder,Golden State Warriors,7f1323a9d85388a4050dba6d60bc2644,betrivers,180,-220,
+2023-11-03,Denver Nuggets,Dallas Mavericks,9e929fa01a924d3e877604211ee6fd6b,fanduel,-300,245,
+2023-11-03,Denver Nuggets,Dallas Mavericks,9e929fa01a924d3e877604211ee6fd6b,draftkings,-270,220,
+2023-11-03,Denver Nuggets,Dallas Mavericks,9e929fa01a924d3e877604211ee6fd6b,betmgm,-275,220,
+2023-11-03,Denver Nuggets,Dallas Mavericks,9e929fa01a924d3e877604211ee6fd6b,barstool,-285,220,
+2023-11-03,Denver Nuggets,Dallas Mavericks,9e929fa01a924d3e877604211ee6fd6b,betrivers,-278,230,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,fanduel,128,-152,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,pinnacle,125,-138,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,draftkings,124,-148,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,betmgm,120,-145,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,barstool,110,-135,
+2023-11-03,Portland Trail Blazers,Memphis Grizzlies,8c81d94ff1cd0ee9bfbd7856c094c1b8,betrivers,114,-134,
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,fanduel,-184,154,Philadelphia 76ers
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,pinnacle,-163,146,Philadelphia 76ers
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,draftkings,-162,136,Philadelphia 76ers
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,betmgm,-190,155,Philadelphia 76ers
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,barstool,-175,135,Philadelphia 76ers
+2023-11-04,Philadelphia 76ers,Phoenix Suns,ce851002c46be6fbd0e2e11c25af20b0,betrivers,-159,135,Philadelphia 76ers
+2023-11-04,Indiana Pacers,Charlotte Hornets,5f3fd068d1caf57e4db23d597463537e,fanduel,-162,136,Charlotte Hornets
+2023-11-04,Indiana Pacers,Charlotte Hornets,5f3fd068d1caf57e4db23d597463537e,draftkings,-162,136,Charlotte Hornets
+2023-11-04,Indiana Pacers,Charlotte Hornets,5f3fd068d1caf57e4db23d597463537e,betmgm,-165,135,Charlotte Hornets
+2023-11-04,Indiana Pacers,Charlotte Hornets,5f3fd068d1caf57e4db23d597463537e,barstool,-165,130,Charlotte Hornets
+2023-11-04,Indiana Pacers,Charlotte Hornets,5f3fd068d1caf57e4db23d597463537e,betrivers,-177,148,Charlotte Hornets
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,fanduel,140,-166,Orlando Magic
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,pinnacle,147,-164,Orlando Magic
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,draftkings,140,-166,Orlando Magic
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,betmgm,135,-160,Orlando Magic
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,barstool,130,-165,Orlando Magic
+2023-11-04,Orlando Magic,Los Angeles Lakers,d35014eed0fd74b2554e54bf629bdc60,betrivers,135,-159,Orlando Magic
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,c61db033132d5a742ca706b9b65ed5d1,fanduel,-148,126,Atlanta Hawks
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,c61db033132d5a742ca706b9b65ed5d1,draftkings,-148,124,Atlanta Hawks
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,c61db033132d5a742ca706b9b65ed5d1,betmgm,-140,115,Atlanta Hawks
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,c61db033132d5a742ca706b9b65ed5d1,barstool,-150,120,Atlanta Hawks
+2023-11-04,New Orleans Pelicans,Atlanta Hawks,c61db033132d5a742ca706b9b65ed5d1,betrivers,-148,125,Atlanta Hawks
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,fanduel,320,-405,Boston Celtics
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,pinnacle,325,-388,Boston Celtics
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,draftkings,350,-455,Boston Celtics
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,betmgm,290,-375,Boston Celtics
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,barstool,320,-475,Boston Celtics
+2023-11-04,Brooklyn Nets,Boston Celtics,d4f4b56699cfc855f43cbecb28d3a689,betrivers,360,-480,Boston Celtics
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,fanduel,128,-152,Houston Rockets
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,pinnacle,123,-136,Houston Rockets
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,draftkings,130,-155,Houston Rockets
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,betmgm,115,-140,Houston Rockets
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,barstool,125,-155,Houston Rockets
+2023-11-04,Houston Rockets,Sacramento Kings,a32e2be9e85e43ce282e1e4ebd7fb20e,betrivers,125,-148,Houston Rockets
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,fanduel,-330,265,Minnesota Timberwolves
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,pinnacle,-287,248,Minnesota Timberwolves
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,draftkings,-290,235,Minnesota Timberwolves
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,betmgm,-300,240,Minnesota Timberwolves
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,barstool,-285,220,Minnesota Timberwolves
+2023-11-04,Minnesota Timberwolves,Utah Jazz,3be8382d9319c3d8a51483a89824e7d4,betrivers,-335,270,Minnesota Timberwolves
+2023-11-04,Denver Nuggets,Chicago Bulls,885624d4651a246a926d5c91197bc55b,fanduel,-390,310,Denver Nuggets
+2023-11-04,Denver Nuggets,Chicago Bulls,885624d4651a246a926d5c91197bc55b,draftkings,-395,310,Denver Nuggets
+2023-11-04,Denver Nuggets,Chicago Bulls,885624d4651a246a926d5c91197bc55b,betmgm,-400,310,Denver Nuggets
+2023-11-04,Denver Nuggets,Chicago Bulls,885624d4651a246a926d5c91197bc55b,barstool,-425,290,Denver Nuggets
+2023-11-04,Denver Nuggets,Chicago Bulls,885624d4651a246a926d5c91197bc55b,betrivers,-455,350,Denver Nuggets
+2023-11-05,Detroit Pistons,Phoenix Suns,0fafb0300d08e343a7208a6ce8f85bd1,fanduel,205,-250,Phoenix Suns
+2023-11-05,Detroit Pistons,Phoenix Suns,0fafb0300d08e343a7208a6ce8f85bd1,draftkings,190,-230,Phoenix Suns
+2023-11-05,Detroit Pistons,Phoenix Suns,0fafb0300d08e343a7208a6ce8f85bd1,betmgm,180,-225,Phoenix Suns
+2023-11-05,Detroit Pistons,Phoenix Suns,0fafb0300d08e343a7208a6ce8f85bd1,barstool,180,-240,Phoenix Suns
+2023-11-05,Detroit Pistons,Phoenix Suns,0fafb0300d08e343a7208a6ce8f85bd1,betrivers,205,-250,Phoenix Suns
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,fanduel,124,-146,Toronto Raptors
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,pinnacle,134,-148,Toronto Raptors
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,draftkings,130,-155,Toronto Raptors
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,betmgm,125,-150,Toronto Raptors
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,barstool,120,-150,Toronto Raptors
+2023-11-05,San Antonio Spurs,Toronto Raptors,3d55b563296e6da801a197c4a90dafb3,betrivers,125,-148,Toronto Raptors
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,fanduel,-120,102,Cleveland Cavaliers
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,pinnacle,-118,107,Cleveland Cavaliers
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,draftkings,-118,-102,Cleveland Cavaliers
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,betmgm,-120,100,Cleveland Cavaliers
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,barstool,-120,100,Cleveland Cavaliers
+2023-11-05,Cleveland Cavaliers,Golden State Warriors,98bb6922920e23a48b0deaf7b08043c7,betrivers,-124,104,Cleveland Cavaliers
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,fanduel,-620,460,Dallas Mavericks
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,pinnacle,-548,437,Dallas Mavericks
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,draftkings,-600,440,Dallas Mavericks
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,betmgm,-650,450,Dallas Mavericks
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,barstool,-625,450,Dallas Mavericks
+2023-11-05,Dallas Mavericks,Charlotte Hornets,e51a80352b3d790c1e2cbabb7213a5eb,betrivers,-715,510,Dallas Mavericks
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,fanduel,118,-138,Memphis Grizzlies
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,pinnacle,127,-141,Memphis Grizzlies
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,draftkings,120,-142,Memphis Grizzlies
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,betmgm,125,-150,Memphis Grizzlies
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,barstool,115,-140,Memphis Grizzlies
+2023-11-05,Portland Trail Blazers,Memphis Grizzlies,669363b75e884ab72ac0f7d3518bc483,betrivers,116,-139,Memphis Grizzlies
+2023-11-06,Detroit Pistons,Golden State Warriors,e318662b17993f5252e49e11012f73c3,fanduel,225,-280,Golden State Warriors
+2023-11-06,Detroit Pistons,Golden State Warriors,e318662b17993f5252e49e11012f73c3,draftkings,200,-245,Golden State Warriors
+2023-11-06,Detroit Pistons,Golden State Warriors,e318662b17993f5252e49e11012f73c3,betmgm,200,-250,Golden State Warriors
+2023-11-06,Detroit Pistons,Golden State Warriors,e318662b17993f5252e49e11012f73c3,barstool,200,-260,Golden State Warriors
+2023-11-06,Detroit Pistons,Golden State Warriors,e318662b17993f5252e49e11012f73c3,betrivers,215,-265,Golden State Warriors
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,fanduel,-300,245,Indiana Pacers
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,pinnacle,-314,269,Indiana Pacers
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,draftkings,-305,245,Indiana Pacers
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,betmgm,-300,240,Indiana Pacers
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,barstool,-300,225,Indiana Pacers
+2023-11-06,Indiana Pacers,San Antonio Spurs,adf6210976c49816c354d4786e52c8a9,betrivers,-315,255,Indiana Pacers
+2023-11-06,Orlando Magic,Dallas Mavericks,7f89f7a5fd665737c6c1ebc12b8f6aac,fanduel,-120,102,Dallas Mavericks
+2023-11-06,Orlando Magic,Dallas Mavericks,7f89f7a5fd665737c6c1ebc12b8f6aac,draftkings,-120,100,Dallas Mavericks
+2023-11-06,Orlando Magic,Dallas Mavericks,7f89f7a5fd665737c6c1ebc12b8f6aac,betmgm,-115,-105,Dallas Mavericks
+2023-11-06,Orlando Magic,Dallas Mavericks,7f89f7a5fd665737c6c1ebc12b8f6aac,barstool,-120,100,Dallas Mavericks
+2023-11-06,Orlando Magic,Dallas Mavericks,7f89f7a5fd665737c6c1ebc12b8f6aac,betrivers,-120,102,Dallas Mavericks
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,fanduel,-650,480,Philadelphia 76ers
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,pinnacle,-571,453,Philadelphia 76ers
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,draftkings,-625,455,Philadelphia 76ers
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,betmgm,-650,450,Philadelphia 76ers
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,barstool,-575,385,Philadelphia 76ers
+2023-11-06,Philadelphia 76ers,Washington Wizards,f5dd2ee0238fa7d6bec7f0092dc876d6,betrivers,-715,510,Philadelphia 76ers
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,fanduel,180,-215,Milwaukee Bucks
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,pinnacle,186,-210,Milwaukee Bucks
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,draftkings,180,-218,Milwaukee Bucks
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,betmgm,180,-225,Milwaukee Bucks
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,barstool,175,-225,Milwaukee Bucks
+2023-11-06,Brooklyn Nets,Milwaukee Bucks,941f4c4222fea1ef8c8d74e331056b45,betrivers,185,-225,Milwaukee Bucks
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,fanduel,-118,100,Miami Heat
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,pinnacle,-115,105,Miami Heat
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,draftkings,-118,-102,Miami Heat
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,betmgm,-115,-105,Miami Heat
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,barstool,-120,100,Miami Heat
+2023-11-06,Miami Heat,Los Angeles Lakers,7276d628cfd1d3f6de38603f621dfa78,betrivers,-113,-105,Miami Heat
+2023-11-06,New York Knicks,LA Clippers,67e39bfe6757c9cee5ce4b1996a5b9ba,fanduel,104,-122,New York Knicks
+2023-11-06,New York Knicks,LA Clippers,67e39bfe6757c9cee5ce4b1996a5b9ba,draftkings,110,-130,New York Knicks
+2023-11-06,New York Knicks,LA Clippers,67e39bfe6757c9cee5ce4b1996a5b9ba,betmgm,100,-120,New York Knicks
+2023-11-06,New York Knicks,LA Clippers,67e39bfe6757c9cee5ce4b1996a5b9ba,barstool,100,-125,New York Knicks
+2023-11-06,New York Knicks,LA Clippers,67e39bfe6757c9cee5ce4b1996a5b9ba,betrivers,-104,-115,New York Knicks
+2023-11-06,Chicago Bulls,Utah Jazz,13f1dec7ccb83d408e07aef04896cda5,fanduel,-176,148,Chicago Bulls
+2023-11-06,Chicago Bulls,Utah Jazz,13f1dec7ccb83d408e07aef04896cda5,draftkings,-175,145,Chicago Bulls
+2023-11-06,Chicago Bulls,Utah Jazz,13f1dec7ccb83d408e07aef04896cda5,betmgm,-175,145,Chicago Bulls
+2023-11-06,Chicago Bulls,Utah Jazz,13f1dec7ccb83d408e07aef04896cda5,barstool,-175,135,Chicago Bulls
+2023-11-06,Chicago Bulls,Utah Jazz,13f1dec7ccb83d408e07aef04896cda5,betrivers,-175,145,Chicago Bulls
+2023-11-06,Houston Rockets,Sacramento Kings,9c4009ab946c4e7a761e92721ccc5959,fanduel,-122,104,Houston Rockets
+2023-11-06,Houston Rockets,Sacramento Kings,9c4009ab946c4e7a761e92721ccc5959,draftkings,-125,105,Houston Rockets
+2023-11-06,Houston Rockets,Sacramento Kings,9c4009ab946c4e7a761e92721ccc5959,betmgm,-125,105,Houston Rockets
+2023-11-06,Houston Rockets,Sacramento Kings,9c4009ab946c4e7a761e92721ccc5959,barstool,-130,105,Houston Rockets
+2023-11-06,Houston Rockets,Sacramento Kings,9c4009ab946c4e7a761e92721ccc5959,betrivers,-124,104,Houston Rockets
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,fanduel,144,-174,Minnesota Timberwolves
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,pinnacle,149,-166,Minnesota Timberwolves
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,draftkings,142,-170,Minnesota Timberwolves
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,betmgm,145,-175,Minnesota Timberwolves
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,barstool,135,-175,Minnesota Timberwolves
+2023-11-06,Minnesota Timberwolves,Boston Celtics,7149d85a278105648bd6020117f5917c,betrivers,145,-175,Minnesota Timberwolves
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,f0948e1796ef1b1877a672dae8da4a74,fanduel,136,-162,Oklahoma City Thunder
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,f0948e1796ef1b1877a672dae8da4a74,draftkings,140,-148,Oklahoma City Thunder
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,f0948e1796ef1b1877a672dae8da4a74,betmgm,120,-145,Oklahoma City Thunder
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,f0948e1796ef1b1877a672dae8da4a74,barstool,130,-160,Oklahoma City Thunder
+2023-11-06,Oklahoma City Thunder,Atlanta Hawks,f0948e1796ef1b1877a672dae8da4a74,betrivers,130,-157,Oklahoma City Thunder
+2023-11-06,Denver Nuggets,New Orleans Pelicans,ae54e30e69ac7e13facdef2a290aaaad,fanduel,-270,220,Denver Nuggets
+2023-11-06,Denver Nuggets,New Orleans Pelicans,ae54e30e69ac7e13facdef2a290aaaad,draftkings,-238,195,Denver Nuggets
+2023-11-06,Denver Nuggets,New Orleans Pelicans,ae54e30e69ac7e13facdef2a290aaaad,betmgm,-250,200,Denver Nuggets
+2023-11-06,Denver Nuggets,New Orleans Pelicans,ae54e30e69ac7e13facdef2a290aaaad,barstool,-250,190,Denver Nuggets
+2023-11-06,Denver Nuggets,New Orleans Pelicans,ae54e30e69ac7e13facdef2a290aaaad,betrivers,-250,210,Denver Nuggets
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,fanduel,-148,126,Washington Wizards
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,pinnacle,-149,134,Washington Wizards
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,draftkings,-148,130,Washington Wizards
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,betmgm,-150,125,Washington Wizards
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,barstool,-150,120,Washington Wizards
+2023-11-08,Charlotte Hornets,Washington Wizards,c67b38eb6cdcd17927fb9f4a9577ce42,betrivers,-143,123,Washington Wizards
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,fanduel,-245,200,Indiana Pacers
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,pinnacle,-232,204,Indiana Pacers
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,draftkings,-245,200,Indiana Pacers
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,betmgm,-250,200,Indiana Pacers
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,barstool,-250,190,Indiana Pacers
+2023-11-08,Indiana Pacers,Utah Jazz,a77dba0b0b66a96587b9f6c13bef260b,betrivers,-250,205,Indiana Pacers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,fanduel,116,-134,Philadelphia 76ers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,pinnacle,118,-130,Philadelphia 76ers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,draftkings,114,-135,Philadelphia 76ers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,betmgm,115,-140,Philadelphia 76ers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,barstool,110,-135,Philadelphia 76ers
+2023-11-08,Philadelphia 76ers,Boston Celtics,a1918eac3e3102331e5bfa3db5373b30,betrivers,110,-132,Philadelphia 76ers
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,fanduel,152,-180,Brooklyn Nets
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,pinnacle,150,-168,Brooklyn Nets
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,draftkings,154,-185,Brooklyn Nets
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,betmgm,150,-185,Brooklyn Nets
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,barstool,150,-190,Brooklyn Nets
+2023-11-08,Brooklyn Nets,LA Clippers,248fa7ad795a476b86095478cb8a6816,betrivers,150,-182,Brooklyn Nets
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,fanduel,-420,330,New York Knicks
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,pinnacle,-402,334,New York Knicks
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,draftkings,-410,320,New York Knicks
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,betmgm,-400,310,New York Knicks
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,barstool,-450,300,New York Knicks
+2023-11-08,New York Knicks,San Antonio Spurs,ea18068f51112a73a7ae7835855044db,betrivers,-435,340,New York Knicks
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,fanduel,-112,-104,Phoenix Suns
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,pinnacle,-110,-101,Phoenix Suns
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,draftkings,-112,-108,Phoenix Suns
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,betmgm,-115,-105,Phoenix Suns
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,barstool,-115,-105,Phoenix Suns
+2023-11-08,Chicago Bulls,Phoenix Suns,5157f19a94c25fcaae292d4040835546,betrivers,-107,-110,Phoenix Suns
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,fanduel,120,-142,Houston Rockets
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,pinnacle,132,-146,Houston Rockets
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,draftkings,120,-142,Houston Rockets
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,betmgm,115,-140,Houston Rockets
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,barstool,115,-140,Houston Rockets
+2023-11-08,Houston Rockets,Los Angeles Lakers,e90bd335fb22c10c73bf9bf0272f0c63,betrivers,120,-141,Houston Rockets
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,fanduel,114,-134,Miami Heat
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,pinnacle,124,-137,Miami Heat
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,draftkings,114,-135,Miami Heat
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,betmgm,110,-135,Miami Heat
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,barstool,110,-135,Miami Heat
+2023-11-08,Memphis Grizzlies,Miami Heat,cbb7df9d712ef1b264928a33c303597c,betrivers,110,-130,Miami Heat
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,fanduel,-720,520,Milwaukee Bucks
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,pinnacle,-670,518,Milwaukee Bucks
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,draftkings,-750,525,Milwaukee Bucks
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,betmgm,-750,525,Milwaukee Bucks
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,barstool,-750,475,Milwaukee Bucks
+2023-11-08,Milwaukee Bucks,Detroit Pistons,0aa84036b74b729454934c2bb157a744,betrivers,-715,510,Milwaukee Bucks
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,fanduel,-290,235,Minnesota Timberwolves
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,pinnacle,-285,247,Minnesota Timberwolves
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,draftkings,-290,235,Minnesota Timberwolves
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,betmgm,-300,240,Minnesota Timberwolves
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,barstool,-290,230,Minnesota Timberwolves
+2023-11-08,Minnesota Timberwolves,New Orleans Pelicans,188d97577048aa12ec722741ac5ad672,betrivers,-315,255,Minnesota Timberwolves
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,fanduel,116,-136,Oklahoma City Thunder
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,pinnacle,111,-123,Oklahoma City Thunder
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,draftkings,114,-135,Oklahoma City Thunder
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,betmgm,115,-140,Oklahoma City Thunder
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,barstool,115,-140,Oklahoma City Thunder
+2023-11-08,Oklahoma City Thunder,Cleveland Cavaliers,4106a944b5dddead401a7d7e0ad8f894,betrivers,115,-136,Oklahoma City Thunder
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,fanduel,-210,176,Toronto Raptors
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,pinnacle,-207,184,Toronto Raptors
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,draftkings,-218,180,Toronto Raptors
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,betmgm,-225,180,Toronto Raptors
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,barstool,-225,175,Toronto Raptors
+2023-11-08,Dallas Mavericks,Toronto Raptors,7b7288fef50222fc845450cdf7bb902a,betrivers,-215,175,Toronto Raptors
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,fanduel,-164,138,Denver Nuggets
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,pinnacle,-160,144,Denver Nuggets
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,draftkings,-166,140,Denver Nuggets
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,betmgm,-165,140,Denver Nuggets
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,barstool,-165,130,Denver Nuggets
+2023-11-08,Denver Nuggets,Golden State Warriors,093882ec33485255f93a8d564b988190,betrivers,-165,138,Denver Nuggets
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,fanduel,-320,260,Sacramento Kings
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,pinnacle,-296,255,Sacramento Kings
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,draftkings,-325,260,Sacramento Kings
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,betmgm,-350,260,Sacramento Kings
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,barstool,-350,250,Sacramento Kings
+2023-11-08,Sacramento Kings,Portland Trail Blazers,e121be20530cee5bfa372eef080c6eb0,betrivers,-335,270,Sacramento Kings
+2023-11-09,Indiana Pacers,Milwaukee Bucks,e40f6f9c37bb33d5021fa68dd65aac81,fanduel,150,-178,Indiana Pacers
+2023-11-09,Indiana Pacers,Milwaukee Bucks,e40f6f9c37bb33d5021fa68dd65aac81,draftkings,150,-180,Indiana Pacers
+2023-11-09,Indiana Pacers,Milwaukee Bucks,e40f6f9c37bb33d5021fa68dd65aac81,betmgm,135,-165,Indiana Pacers
+2023-11-09,Indiana Pacers,Milwaukee Bucks,e40f6f9c37bb33d5021fa68dd65aac81,barstool,135,-175,Indiana Pacers
+2023-11-09,Indiana Pacers,Milwaukee Bucks,e40f6f9c37bb33d5021fa68dd65aac81,betrivers,148,-177,Indiana Pacers
+2023-11-09,Orlando Magic,Atlanta Hawks,9336833f35adbede867667bbeab51ac6,fanduel,136,-162,Atlanta Hawks
+2023-11-09,Orlando Magic,Atlanta Hawks,9336833f35adbede867667bbeab51ac6,pinnacle,142,-158,Atlanta Hawks
+2023-11-09,Orlando Magic,Atlanta Hawks,9336833f35adbede867667bbeab51ac6,draftkings,124,-148,Atlanta Hawks
+2023-11-09,Orlando Magic,Atlanta Hawks,9336833f35adbede867667bbeab51ac6,betmgm,135,-160,Atlanta Hawks
+2023-11-09,Orlando Magic,Atlanta Hawks,9336833f35adbede867667bbeab51ac6,barstool,130,-160,Atlanta Hawks
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,fanduel,275,-340,
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,pinnacle,290,-341,
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,draftkings,270,-340,
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,betmgm,280,-350,
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,barstool,250,-350,
+2023-11-10,Detroit Pistons,Philadelphia 76ers,9fb7986357515f0540a5ec36ae99f281,betrivers,275,-345,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,fanduel,-132,112,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,pinnacle,-128,116,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,draftkings,-130,110,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,betmgm,-130,105,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,barstool,-130,105,
+2023-11-10,Washington Wizards,Charlotte Hornets,9f7c0f39f0008386c6011cd7d2247892,betrivers,-130,110,
+2023-11-10,Boston Celtics,Brooklyn Nets,f5c8078fe18d11ad02e6586f6ae2a4a1,fanduel,-700,500,
+2023-11-10,Boston Celtics,Brooklyn Nets,f5c8078fe18d11ad02e6586f6ae2a4a1,draftkings,-520,390,
+2023-11-10,Boston Celtics,Brooklyn Nets,f5c8078fe18d11ad02e6586f6ae2a4a1,betmgm,-550,400,
+2023-11-10,Boston Celtics,Brooklyn Nets,f5c8078fe18d11ad02e6586f6ae2a4a1,barstool,-600,400,
+2023-11-10,Boston Celtics,Brooklyn Nets,f5c8078fe18d11ad02e6586f6ae2a4a1,betrivers,-560,410,
+2023-11-10,Houston Rockets,New Orleans Pelicans,49593fb0e055fd918f36cfd3eb917202,fanduel,-134,114,
+2023-11-10,Houston Rockets,New Orleans Pelicans,49593fb0e055fd918f36cfd3eb917202,draftkings,-130,110,
+2023-11-10,Houston Rockets,New Orleans Pelicans,49593fb0e055fd918f36cfd3eb917202,betmgm,-135,110,
+2023-11-10,Houston Rockets,New Orleans Pelicans,49593fb0e055fd918f36cfd3eb917202,barstool,-135,110,
+2023-11-10,Houston Rockets,New Orleans Pelicans,49593fb0e055fd918f36cfd3eb917202,betrivers,-129,108,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,fanduel,-172,144,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,pinnacle,-180,161,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,draftkings,-185,154,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,betmgm,-190,155,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,barstool,-180,140,
+2023-11-10,Memphis Grizzlies,Utah Jazz,d0f8061f118444fc8a2d7fae120ae7ee,betrivers,-180,150,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,fanduel,215,-260,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,pinnacle,220,-251,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,draftkings,215,-265,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,betmgm,220,-275,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,barstool,190,-250,
+2023-11-10,San Antonio Spurs,Minnesota Timberwolves,7a709e569227098f131cd60050b5635f,betrivers,215,-265,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,fanduel,-122,104,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,pinnacle,-126,114,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,draftkings,-122,102,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,betmgm,-140,115,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,barstool,-130,105,
+2023-11-10,Dallas Mavericks,LA Clippers,8d48aeb64a62acb76ee25afe50b14379,betrivers,-139,118,
+2023-11-10,Phoenix Suns,Los Angeles Lakers,56a78cd2e22c16d9b0a2712d2293c310,fanduel,-168,142,
+2023-11-10,Phoenix Suns,Los Angeles Lakers,56a78cd2e22c16d9b0a2712d2293c310,draftkings,-166,140,
+2023-11-10,Phoenix Suns,Los Angeles Lakers,56a78cd2e22c16d9b0a2712d2293c310,betmgm,-165,140,
+2023-11-10,Phoenix Suns,Los Angeles Lakers,56a78cd2e22c16d9b0a2712d2293c310,barstool,-175,135,
+2023-11-10,Phoenix Suns,Los Angeles Lakers,56a78cd2e22c16d9b0a2712d2293c310,betrivers,-177,148,
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,dfefe666c2f957cd3ef3ae9ad65347c0,fanduel,120,-142,
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,dfefe666c2f957cd3ef3ae9ad65347c0,draftkings,110,-130,
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,dfefe666c2f957cd3ef3ae9ad65347c0,betmgm,115,-140,
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,dfefe666c2f957cd3ef3ae9ad65347c0,barstool,115,-140,
+2023-11-10,Sacramento Kings,Oklahoma City Thunder,dfefe666c2f957cd3ef3ae9ad65347c0,betrivers,116,-139,
+2023-11-11,Orlando Magic,Milwaukee Bucks,155ba94cb22145dd65a4c9ee8bb0f649,fanduel,136,-158,Orlando Magic
+2023-11-11,Orlando Magic,Milwaukee Bucks,155ba94cb22145dd65a4c9ee8bb0f649,draftkings,136,-162,Orlando Magic
+2023-11-11,Orlando Magic,Milwaukee Bucks,155ba94cb22145dd65a4c9ee8bb0f649,betmgm,135,-160,Orlando Magic
+2023-11-11,Orlando Magic,Milwaukee Bucks,155ba94cb22145dd65a4c9ee8bb0f649,barstool,135,-155,Orlando Magic
+2023-11-11,Orlando Magic,Milwaukee Bucks,155ba94cb22145dd65a4c9ee8bb0f649,betrivers,135,-159,Orlando Magic
+2023-11-11,Boston Celtics,Toronto Raptors,bbb016cb026167646f9780f716fdc6ec,fanduel,-340,275,Boston Celtics
+2023-11-11,Boston Celtics,Toronto Raptors,bbb016cb026167646f9780f716fdc6ec,draftkings,-345,275,Boston Celtics
+2023-11-11,Boston Celtics,Toronto Raptors,bbb016cb026167646f9780f716fdc6ec,betmgm,-300,240,Boston Celtics
+2023-11-11,Boston Celtics,Toronto Raptors,bbb016cb026167646f9780f716fdc6ec,barstool,-350,250,Boston Celtics
+2023-11-11,Boston Celtics,Toronto Raptors,bbb016cb026167646f9780f716fdc6ec,betrivers,-360,285,Boston Celtics
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,fanduel,-184,154,Miami Heat
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,pinnacle,-177,158,Miami Heat
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,draftkings,-185,154,Miami Heat
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,betmgm,-175,145,Miami Heat
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,barstool,-180,140,Miami Heat
+2023-11-11,Atlanta Hawks,Miami Heat,c535e81527a438c5ccac951ce2eaa411,betrivers,-190,160,Miami Heat
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,fanduel,-180,152,
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,pinnacle,-176,157,
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,draftkings,-175,145,
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,betmgm,-175,145,
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,barstool,-180,140,
+2023-11-11,Golden State Warriors,Cleveland Cavaliers,009a778de4b2d81184420add7c919fca,betrivers,-182,155,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,fanduel,-450,350,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,pinnacle,-437,360,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,draftkings,-455,350,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,betmgm,-450,333,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,barstool,-425,340,
+2023-11-12,New York Knicks,Charlotte Hornets,520841a374e10effd86ac81986f979ab,betrivers,-530,400,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,fanduel,-275,225,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,pinnacle,-264,230,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,draftkings,-270,220,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,betmgm,-300,230,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,barstool,-275,225,
+2023-11-12,Brooklyn Nets,Washington Wizards,71b5d2fb7a01c496acc4783f47ef96f9,betrivers,-305,245,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,fanduel,-360,290,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,pinnacle,-352,298,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,draftkings,-375,295,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,betmgm,-350,275,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,barstool,-360,290,
+2023-11-12,LA Clippers,Memphis Grizzlies,731291c613eecac1f1b2220a4a4c1ce5,betrivers,-360,285,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,fanduel,-260,215,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,pinnacle,-264,230,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,draftkings,-265,215,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,betmgm,-275,220,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,barstool,-270,220,
+2023-11-12,Philadelphia 76ers,Indiana Pacers,df649bb0fe5e2ce676c9da62593041bf,betrivers,-250,205,
+2023-11-12,Chicago Bulls,Detroit Pistons,4fee8477b42e908bd1c14d24b006983f,fanduel,-300,245,
+2023-11-12,Chicago Bulls,Detroit Pistons,4fee8477b42e908bd1c14d24b006983f,draftkings,-310,250,
+2023-11-12,Chicago Bulls,Detroit Pistons,4fee8477b42e908bd1c14d24b006983f,betmgm,-300,240,
+2023-11-12,Chicago Bulls,Detroit Pistons,4fee8477b42e908bd1c14d24b006983f,barstool,-300,250,
+2023-11-12,Chicago Bulls,Detroit Pistons,4fee8477b42e908bd1c14d24b006983f,betrivers,-315,250,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,fanduel,150,-178,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,pinnacle,149,-167,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,draftkings,145,-175,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,betmgm,145,-175,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,barstool,150,-175,
+2023-11-12,Houston Rockets,Denver Nuggets,3856877bd5068951b64aea51ced729ef,betrivers,155,-182,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,fanduel,118,-138,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,pinnacle,130,-144,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,draftkings,120,-142,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,betmgm,115,-140,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,barstool,120,-140,
+2023-11-12,New Orleans Pelicans,Dallas Mavericks,1c97ab424516260fb75e1cc11e4690be,betrivers,115,-137,
+2023-11-12,San Antonio Spurs,Miami Heat,3d49b626c4989dddc0cc0beb4765f7f0,fanduel,100,-118,
+2023-11-12,San Antonio Spurs,Miami Heat,3d49b626c4989dddc0cc0beb4765f7f0,draftkings,105,-125,
+2023-11-12,San Antonio Spurs,Miami Heat,3d49b626c4989dddc0cc0beb4765f7f0,betmgm,100,-120,
+2023-11-12,San Antonio Spurs,Miami Heat,3d49b626c4989dddc0cc0beb4765f7f0,barstool,105,-125,
+2023-11-12,San Antonio Spurs,Miami Heat,3d49b626c4989dddc0cc0beb4765f7f0,betrivers,100,-118,
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,80377e2eca5e2820a44b5b02c1c17e8e,fanduel,-144,122,
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,80377e2eca5e2820a44b5b02c1c17e8e,draftkings,-142,120,
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,80377e2eca5e2820a44b5b02c1c17e8e,betmgm,-145,120,
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,80377e2eca5e2820a44b5b02c1c17e8e,barstool,-145,125,
+2023-11-12,Phoenix Suns,Oklahoma City Thunder,80377e2eca5e2820a44b5b02c1c17e8e,betrivers,-141,120,
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,e803d7b0426164efc50dd8298cf1cd8e,fanduel,-130,108,
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,e803d7b0426164efc50dd8298cf1cd8e,draftkings,-125,105,
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,e803d7b0426164efc50dd8298cf1cd8e,betmgm,-120,100,
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,e803d7b0426164efc50dd8298cf1cd8e,barstool,-125,105,
+2023-11-12,Golden State Warriors,Minnesota Timberwolves,e803d7b0426164efc50dd8298cf1cd8e,betrivers,-132,112,
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,7c6c4dbec15d7d2bf2f2d50a4b2b6a03,fanduel,-510,390,
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,7c6c4dbec15d7d2bf2f2d50a4b2b6a03,draftkings,-455,350,
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,7c6c4dbec15d7d2bf2f2d50a4b2b6a03,betmgm,-450,340,
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,7c6c4dbec15d7d2bf2f2d50a4b2b6a03,barstool,-500,380,
+2023-11-12,Los Angeles Lakers,Portland Trail Blazers,7c6c4dbec15d7d2bf2f2d50a4b2b6a03,betrivers,-560,420,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,fanduel,-420,330,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,pinnacle,-390,326,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,draftkings,-410,320,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,betmgm,-400,310,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,barstool,-400,320,
+2023-11-13,Boston Celtics,New York Knicks,4b8122036d7a43393e8aec4d881958e6,betrivers,-400,310,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,fanduel,-450,350,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,pinnacle,-423,350,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,draftkings,-440,340,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,betmgm,-450,350,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,barstool,-425,340,
+2023-11-13,Toronto Raptors,Washington Wizards,d4290efa8f1f9d381726a0102b97ccca,betrivers,-455,350,
+2023-11-13,Milwaukee Bucks,Chicago Bulls,20fcedb4dd290caf2f4604977dd07ca2,fanduel,-335,270,
+2023-11-13,Milwaukee Bucks,Chicago Bulls,20fcedb4dd290caf2f4604977dd07ca2,draftkings,-345,275,
+2023-11-13,Milwaukee Bucks,Chicago Bulls,20fcedb4dd290caf2f4604977dd07ca2,betmgm,-350,260,
+2023-11-13,Milwaukee Bucks,Chicago Bulls,20fcedb4dd290caf2f4604977dd07ca2,barstool,-340,270,
+2023-11-13,Milwaukee Bucks,Chicago Bulls,20fcedb4dd290caf2f4604977dd07ca2,betrivers,-375,290,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,fanduel,118,-142,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,pinnacle,122,-135,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,draftkings,124,-148,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,betmgm,125,-150,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,barstool,125,-145,
+2023-11-13,Sacramento Kings,Cleveland Cavaliers,e5c712d4d6d7c60f6a0714f3558696bd,betrivers,125,-150,
+2023-11-14,Charlotte Hornets,Miami Heat,cff113feb71a682a6af7fc63a8ec7260,pinnacle,137,-152,
+2023-11-14,Charlotte Hornets,Miami Heat,cff113feb71a682a6af7fc63a8ec7260,draftkings,130,-155,
+2023-11-14,Charlotte Hornets,Miami Heat,cff113feb71a682a6af7fc63a8ec7260,betmgm,125,-155,
+2023-11-14,Charlotte Hornets,Miami Heat,cff113feb71a682a6af7fc63a8ec7260,barstool,130,-160,
+2023-11-14,Charlotte Hornets,Miami Heat,cff113feb71a682a6af7fc63a8ec7260,betrivers,138,-165,
+2023-11-14,Detroit Pistons,Atlanta Hawks,f7800e694d6ceea52db36f30a7d86b31,draftkings,154,-185,
+2023-11-14,Detroit Pistons,Atlanta Hawks,f7800e694d6ceea52db36f30a7d86b31,betmgm,155,-190,
+2023-11-14,Detroit Pistons,Atlanta Hawks,f7800e694d6ceea52db36f30a7d86b31,barstool,140,-180,
+2023-11-14,Detroit Pistons,Atlanta Hawks,f7800e694d6ceea52db36f30a7d86b31,betrivers,150,-180,
+2023-11-14,Philadelphia 76ers,Indiana Pacers,1a53d5554307d587b57eb4b30cd06e11,draftkings,-225,185,
+2023-11-14,Philadelphia 76ers,Indiana Pacers,1a53d5554307d587b57eb4b30cd06e11,betmgm,-225,180,
+2023-11-14,Philadelphia 76ers,Indiana Pacers,1a53d5554307d587b57eb4b30cd06e11,barstool,-225,175,
+2023-11-14,Philadelphia 76ers,Indiana Pacers,1a53d5554307d587b57eb4b30cd06e11,betrivers,-225,185,
+2023-11-14,Brooklyn Nets,Orlando Magic,cab42e2a0a620c893ecedc71bbfcf1f7,pinnacle,-137,124,
+2023-11-14,Brooklyn Nets,Orlando Magic,cab42e2a0a620c893ecedc71bbfcf1f7,draftkings,-135,114,
+2023-11-14,Brooklyn Nets,Orlando Magic,cab42e2a0a620c893ecedc71bbfcf1f7,betmgm,-135,110,
+2023-11-14,Brooklyn Nets,Orlando Magic,cab42e2a0a620c893ecedc71bbfcf1f7,barstool,-140,115,
+2023-11-14,Brooklyn Nets,Orlando Magic,cab42e2a0a620c893ecedc71bbfcf1f7,betrivers,-137,115,
+2023-11-14,Oklahoma City Thunder,San Antonio Spurs,1acac291f340c497d1448272b1cef003,draftkings,-410,320,
+2023-11-14,Oklahoma City Thunder,San Antonio Spurs,1acac291f340c497d1448272b1cef003,betmgm,-375,300,
+2023-11-14,Oklahoma City Thunder,San Antonio Spurs,1acac291f340c497d1448272b1cef003,barstool,-450,300,
+2023-11-14,Oklahoma City Thunder,San Antonio Spurs,1acac291f340c497d1448272b1cef003,betrivers,-435,340,
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,7a6d4840a0f37825b16b6799b523e322,pinnacle,150,-167,
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,7a6d4840a0f37825b16b6799b523e322,draftkings,136,-162,
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,7a6d4840a0f37825b16b6799b523e322,betmgm,140,-165,
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,7a6d4840a0f37825b16b6799b523e322,barstool,130,-165,
+2023-11-14,New Orleans Pelicans,Dallas Mavericks,7a6d4840a0f37825b16b6799b523e322,betrivers,140,-167,
+2023-11-14,Utah Jazz,Portland Trail Blazers,a4d381df8daf44002a8e333f147d86e8,draftkings,-258,210,
+2023-11-14,Utah Jazz,Portland Trail Blazers,a4d381df8daf44002a8e333f147d86e8,betmgm,-275,220,
+2023-11-14,Utah Jazz,Portland Trail Blazers,a4d381df8daf44002a8e333f147d86e8,barstool,-275,210,
+2023-11-14,Utah Jazz,Portland Trail Blazers,a4d381df8daf44002a8e333f147d86e8,betrivers,-278,225,
+2023-11-14,Denver Nuggets,LA Clippers,3a5e1ef0268a0a21b96f67471b198202,pinnacle,-226,199,
+2023-11-14,Denver Nuggets,LA Clippers,3a5e1ef0268a0a21b96f67471b198202,draftkings,-238,195,
+2023-11-14,Denver Nuggets,LA Clippers,3a5e1ef0268a0a21b96f67471b198202,betmgm,-250,190,
+2023-11-14,Denver Nuggets,LA Clippers,3a5e1ef0268a0a21b96f67471b198202,barstool,-225,175,
+2023-11-14,Denver Nuggets,LA Clippers,3a5e1ef0268a0a21b96f67471b198202,betrivers,-250,205,
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,a3508f758a37ab4b55fc4be99bdd47f8,pinnacle,-116,105,Minnesota Timberwolves
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,a3508f758a37ab4b55fc4be99bdd47f8,draftkings,-130,110,Minnesota Timberwolves
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,a3508f758a37ab4b55fc4be99bdd47f8,betmgm,-140,115,Minnesota Timberwolves
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,a3508f758a37ab4b55fc4be99bdd47f8,barstool,-125,100,Minnesota Timberwolves
+2023-11-14,Golden State Warriors,Minnesota Timberwolves,a3508f758a37ab4b55fc4be99bdd47f8,betrivers,-113,-105,Minnesota Timberwolves
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,edf20f8f66f61ab47fb00a6b8c533745,draftkings,-205,170,Los Angeles Lakers
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,edf20f8f66f61ab47fb00a6b8c533745,betmgm,-210,170,Los Angeles Lakers
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,edf20f8f66f61ab47fb00a6b8c533745,barstool,-215,165,Los Angeles Lakers
+2023-11-14,Los Angeles Lakers,Memphis Grizzlies,edf20f8f66f61ab47fb00a6b8c533745,betrivers,-225,185,Los Angeles Lakers
+2023-11-15,Washington Wizards,Dallas Mavericks,33beed179be7b075e04593a275e86b05,fanduel,205,-250,
+2023-11-15,Washington Wizards,Dallas Mavericks,33beed179be7b075e04593a275e86b05,draftkings,190,-230,
+2023-11-15,Washington Wizards,Dallas Mavericks,33beed179be7b075e04593a275e86b05,betmgm,180,-225,
+2023-11-15,Washington Wizards,Dallas Mavericks,33beed179be7b075e04593a275e86b05,barstool,200,-240,
+2023-11-15,Washington Wizards,Dallas Mavericks,33beed179be7b075e04593a275e86b05,betrivers,195,-240,
+2023-11-15,Atlanta Hawks,New York Knicks,965edd86a62c7ee3d1b895210dc8f052,fanduel,-116,-102,
+2023-11-15,Atlanta Hawks,New York Knicks,965edd86a62c7ee3d1b895210dc8f052,draftkings,-110,-110,
+2023-11-15,Atlanta Hawks,New York Knicks,965edd86a62c7ee3d1b895210dc8f052,betmgm,-115,-105,
+2023-11-15,Atlanta Hawks,New York Knicks,965edd86a62c7ee3d1b895210dc8f052,barstool,-115,-105,
+2023-11-15,Atlanta Hawks,New York Knicks,965edd86a62c7ee3d1b895210dc8f052,betrivers,-114,-104,
+2023-11-15,Philadelphia 76ers,Boston Celtics,0e492f23fe143a191248260bdd127f08,fanduel,138,-164,
+2023-11-15,Philadelphia 76ers,Boston Celtics,0e492f23fe143a191248260bdd127f08,draftkings,136,-162,
+2023-11-15,Philadelphia 76ers,Boston Celtics,0e492f23fe143a191248260bdd127f08,betmgm,125,-155,
+2023-11-15,Philadelphia 76ers,Boston Celtics,0e492f23fe143a191248260bdd127f08,barstool,140,-175,
+2023-11-15,Philadelphia 76ers,Boston Celtics,0e492f23fe143a191248260bdd127f08,betrivers,145,-175,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,fanduel,164,-196,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,pinnacle,157,-175,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,draftkings,154,-185,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,betmgm,155,-190,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,barstool,160,-190,
+2023-11-15,Toronto Raptors,Milwaukee Bucks,516f79d9b32d6565eceb5d48cc9704e2,betrivers,160,-195,
+2023-11-15,Chicago Bulls,Orlando Magic,97bfe2812c7fb95bd57d6d4283a1b46c,fanduel,-134,114,
+2023-11-15,Chicago Bulls,Orlando Magic,97bfe2812c7fb95bd57d6d4283a1b46c,draftkings,-135,114,
+2023-11-15,Chicago Bulls,Orlando Magic,97bfe2812c7fb95bd57d6d4283a1b46c,betmgm,-145,120,
+2023-11-15,Chicago Bulls,Orlando Magic,97bfe2812c7fb95bd57d6d4283a1b46c,barstool,-130,110,
+2023-11-15,Chicago Bulls,Orlando Magic,97bfe2812c7fb95bd57d6d4283a1b46c,betrivers,-130,110,
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,5ea72160d2061c9541533273794be107,fanduel,-235,194,
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,5ea72160d2061c9541533273794be107,draftkings,-218,180,
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,5ea72160d2061c9541533273794be107,betmgm,-225,185,
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,5ea72160d2061c9541533273794be107,barstool,-210,180,
+2023-11-15,Phoenix Suns,Minnesota Timberwolves,5ea72160d2061c9541533273794be107,betrivers,-250,205,
+2023-11-15,Los Angeles Lakers,Sacramento Kings,31b7247f5f90eaeaf6b8f5deb62933ec,fanduel,-116,-102,
+2023-11-15,Los Angeles Lakers,Sacramento Kings,31b7247f5f90eaeaf6b8f5deb62933ec,draftkings,-110,-110,
+2023-11-15,Los Angeles Lakers,Sacramento Kings,31b7247f5f90eaeaf6b8f5deb62933ec,betmgm,-105,-115,
+2023-11-15,Los Angeles Lakers,Sacramento Kings,31b7247f5f90eaeaf6b8f5deb62933ec,barstool,-115,-105,
+2023-11-15,Los Angeles Lakers,Sacramento Kings,31b7247f5f90eaeaf6b8f5deb62933ec,betrivers,-112,-106,
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,6aad96d7506ea4531a5ad3636b6e2232,fanduel,360,-460,
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,6aad96d7506ea4531a5ad3636b6e2232,draftkings,340,-440,
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,6aad96d7506ea4531a5ad3636b6e2232,betmgm,340,-450,
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,6aad96d7506ea4531a5ad3636b6e2232,barstool,360,-450,
+2023-11-15,Portland Trail Blazers,Cleveland Cavaliers,6aad96d7506ea4531a5ad3636b6e2232,betrivers,375,-500,
