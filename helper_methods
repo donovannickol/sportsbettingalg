@@ -1,0 +1,60 @@
+##for a pair of odds where x and y are complements of each other i.e. duke winning vs UNC or UNC winning vs Duke
+def odds_to_prob(x, y):
+    if (x < 0):
+        prob_x = (-1 * x) / (100 - x)
+    else:
+        prob_x = 100 / (x + 100)
+    if (y < 0):
+        prob_y = (-1 * y) / (100 - y)
+    else:
+        prob_y = 100 / (y + 100)
+    vig = prob_x + prob_y - 1.0
+    prob_x -= vig/2
+    prob_y -= vig/2
+    return (prob_x, prob_y)
+
+##Converting 
+def odds_to_prob(odds):
+    if (odds < 0):
+        return (-1 * odds) / (100 - odds)
+    else:
+        return 100 / (odds + 100)
+
+##exp value payout for a bet size of $1
+def calc_statistical_edge(odds, consensus_prob):
+    if (odds < 0):
+        payout = ((-100 / odds) + 1)
+    else:
+        payout = ((odds / 100) + 1)
+    return payout * consensus_prob
+
+
+def exp_value(odds, consensus_prob, principle):
+    if (odds < 0):
+        payout = ((-100 / odds) + 1) * principle
+    else:
+        payout = ((odds / 100) + 1) * principle
+    return payout * consensus_prob
+
+##If you want the statistical edge, just do the expected value for a principle of $1
+
+def consensus_prob_calc(probs, weights):
+    consensus_prob = 0
+    for index in range(len(weights)):
+        consensus_prob += weights[index] * probs[index]
+    return consensus_prob
+
+def odds_to_decimal_odds(odds):
+    if (odds < 0):
+        return ((-100 / odds) + 1)
+    else:
+        return ((odds / 100) + 1)
+
+##Uses Kelly Criterion to calculate optimal bet size
+def calc_bet_size(odds, consensus_prob, bankroll):
+    decimal_odds = odds_to_decimal_odds(odds)
+    frac = (decimal_odds - 1) * consensus_prob - ((1 - consensus_prob) / decimal_odds)
+    if (frac < 0):
+        return 0
+    else:
+        return frac * bankroll
