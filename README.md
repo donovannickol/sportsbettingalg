@@ -1,92 +1,111 @@
-# CS_333_Technical_Demo_Betting_Algorithm
+Project Site located here: https://sites.google.com/view/cs-333-algo-sports-betting/
+(Graphs and analysis can be found there, below is an excerpt of some of the details of the algorithm in this repo)
 
 
 
-## Getting started
+Data Source
+The prop_odds API (https://prop-odds.com/) was used to gather NBA games data and the moneyline betting odds across different sportsbooks. It has NBA data available since March 19, 2023 and bettings odds from Pinnacle, FanDuel, DraftKings, Caesars, BetMGM, Barstool, and BetRivers. The free tier allows 1,500 requests/month, which was enough for our use case. 
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+The balldontlie API (https://www.balldontlie.io/) was used to get the results of each NBA game.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
-## Add your files
+Historical Games
+We use the historical games to calculate the weights for each approach, as well as to backtest our algorithm on prior games and evaluate the profitability.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Define functions for probability, vig, statistical edge, expected value, consensus probability, and bet size calculations
 
-```
-cd existing_repo
-git remote add origin https://gitlab.oit.duke.edu/mah170/cs_333_technical_demo_betting_algorithm.git
-git branch -M main
-git push -uf origin main
-```
+Retrieve all available completed NBA games, moneyline odds on each sportsbook, and winner
 
-## Integrate with your tools
+Calculations
 
-- [ ] [Set up project integrations](https://gitlab.oit.duke.edu/mah170/cs_333_technical_demo_betting_algorithm/-/settings/integrations)
+Assign weights to each sportsbook based on even weighting, loss weighting, and vig weighting strategies
 
-## Collaborate with your team
+Assign implied and consensus probabilities for home/away team
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+Use the probabilities to calculate bet sizes
 
-## Test and Deploy
+Sum expected and actual payouts for each weighting method
 
-Use the built-in continuous integration in GitLab.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+Today's Games
+The main feature and selling point of our technical demo is its ability to examine the betting market for potential profitable opportunities and then suggest which bets to make.
 
-***
+Choose sportsbook weighting method
 
-# Editing this README
+Get today's NBA games
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+Fill in odds
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Calculate consensus probabilities
 
-## Name
-Choose a self-explaining name for your project.
+Calculate bet sizing for each game
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Calculate expected values for each bet
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Print out suggested bets
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Output example:
+Suggested bets:
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+$38.59 on Portland Trail Blazers at fanduel (520)
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+$41.39 on Cleveland Cavaliers at draftkings (-395)
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+$128.54 on Cleveland Cavaliers at betmgm (-350)
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+$14.47 on Portland Trail Blazers at barstool (450)
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+$60.76 on Cleveland Cavaliers at betrivers (-385)
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+$0.43 on Charlotte Hornets at pinnacle (209)
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+$36.95 on Indiana Pacers at draftkings (-120)
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+$15.06 on Indiana Pacers at betmgm (-125)
 
-## License
-For open source projects, say how it is licensed.
+$5.25 on Miami Heat at betrivers (130)
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+$8.41 on Atlanta Hawks at betmgm (-120)
+
+$21.04 on Milwaukee Bucks at draftkings (-298)
+
+$28.42 on Milwaukee Bucks at betrivers (-295)
+
+$13.79 on Utah Jazz at fanduel (280)
+
+$2.17 on Utah Jazz at pinnacle (268)
+
+$152.70 on Minnesota Timberwolves at betrivers (-210)
+
+Total expected payout: $596.26
+
+Total amount bet: $567.98
+
+Results
+Using our best method, we turned a cumulative bet total of $3515 into $4343 over a betting period from 03/30/2023-11/14/2023. This is a 24% profit, which is quite impressive and exhibits the potential of our strategy when applied to the betting market.
+
+Even weights for each sportsbook
+
+Total expected payout: $3810.45
+
+Total actual payout: $3462.43
+
+Total amount bet: $3414.00
+
+Weighted by historical loss
+
+Total expected payout: $3815.04
+
+Total actual payout: $3392.03
+
+Total amount bet: $3412.03
+
+Weighted by historical vig
+
+Total expected payout: $3892.91
+
+Total actual payout: $4343.63
+
+Total amount bet: $3515.57
+
+Weighting by historical vig provided the best results, followed by even weights, and finally historical loss. This is somewhat expected as vig is a well-established proxy for how accurate a sportsbook is, while we created the loss function that we used based on our own intuition. The even weights and historical loss weights were actually quite similar, leading to similar bets and outcomes. 
